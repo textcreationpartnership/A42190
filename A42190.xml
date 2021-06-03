@@ -1,0 +1,1717 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A fiery pillar of heavenly truth shewing, the way to a blessed life : composed by way of catechisme, for the preservation of God's people from the spreading evills, and pernicious inchantments of papisme and other errors, for the detection of every mans condition, for the consolation of afflicted people, and for the direction of all sorts of persons to life eternall.</title>
+            <author>Grosse, Alexander, 1596?-1654.</author>
+         </titleStmt>
+         <extent>Approx. 154KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42190</idno><idno type="EEBO-CITATION">18421774</idno>
+  <idno type="VID">107564</idno>
+  <idno type="EEBO-PROQUEST">2240863487</idno>
+  
+            <idno type="STC">Wing G2070</idno>
+            <idno type="STC">ESTC R39487</idno>
+            <idno type="OCLC">18421774</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A42190)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107564)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1634:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A fiery pillar of heavenly truth shewing, the way to a blessed life : composed by way of catechisme, for the preservation of God's people from the spreading evills, and pernicious inchantments of papisme and other errors, for the detection of every mans condition, for the consolation of afflicted people, and for the direction of all sorts of persons to life eternall.</title>
+                  <author>Grosse, Alexander, 1596?-1654.</author>
+               </titleStmt>
+               <extent>[94] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Bartlett ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Grosse by Wing and NUC pre-1956 imprints.</note>
+                  <note>Imperfect: stained, with print show-through.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Presbyterianism --  Catechisms.</term>
+               <term type="topical_term">Catechisms, English.</term>
+               <term type="topical_term">Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107564:1"/>
+            <p>A FIERY PILLAR OF HEAVENLY TRUTH: SHEWING, <hi>The Way to a Blessed Life.</hi>
+            </p>
+            <p>Composed by way of Catechisme, for the <hi>preservation</hi> of GODS people from the spreading evills, and pernicious Inchantments of Papisme, and other errors; for the <hi>Detection</hi> of every mans condition, for the <hi>Consolation</hi> of afflicted people, and for the <hi>Direction</hi> of all sorts of per<g ref="char:EOLhyphen"/>sons to Life Eternall.</p>
+            <q>
+               <bibl>
+                  <hi>2 COR. 10.4, 5.</hi>
+               </bibl>
+               <p>The weapons of our warfare are not carnall, but mighty through God, to the pulling down of strong holds, &amp;c.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>1 COR. 1.27.</hi>
+               </bibl>
+               <p>God hath chosen the foolish things of the world to confound the wise, &amp;c.</p>
+            </q>
+            <q>
+               <p>Omnia dicta tanti existimantur, quantus est ipse qui dixit, &amp; qui se<g ref="char:EOLhyphen"/>gunt non tam considerent quid legant, quam cujus legant, &amp;c.
+<bibl>
+                     <hi>Salvian. contra Avarit. lib.</hi> 1.</bibl>
+               </p>
+            </q>
+            <q>
+               <p>Sufficiunt nobis hac in parte Sanctorum sensus &amp; Iudicia, &amp;c.
+<bibl>
+                     <hi>Salv. cont. Avar. lib.</hi> 4.</bibl>
+               </p>
+            </q>
+            <p>LONDON: Printed for <hi>John Bartlett,</hi> and are to be sold at the signe of the Gilt Cup, neere S<seg rend="sup">t</seg>. <hi>Augustines</hi> gate. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:107564:2"/>
+            <pb facs="tcp:107564:2"/>
+            <head>A FIERY PILLAR OF HEAVENLY TRUTH: SHEWING, The way to a blessed Life.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <head type="sub">Question.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">W</seg>Hat is the most needfull and comfor<g ref="char:EOLhyphen"/>table thing for every man to know?</hi>
+               </p>
+               <p>
+                  <hi>Answer.</hi> To know himselfe to be the childe of God. <hi>Luk.</hi> 10.42. <hi>Ioh.</hi> 17.3. <hi>Phil.</hi> 3.8. 2 <hi>Cor.</hi> 13.5.</p>
+               <p>Quest. <hi>Why is this Knowledge the most needfull, and most comfortable?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Because God doth chiefly require it, and our happinesse, dignitie, peace, and safety doth principally con<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t in it. <hi>Hos.</hi> 6.6. <hi>Iere.</hi> 9.23, 24. 2 <hi>Pet.</hi> 1, 2, 3, 4.</p>
+               <p>Quest. <hi>How may a man attaine this knowledge?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> By the preaching of the Word. 1 <hi>Pet.</hi> 1.23. <hi>Acts</hi> 26.15, 16, 17, 18.</p>
+               <pb facs="tcp:107564:3"/>
+               <p>Quest. <hi>How doth the Preaching of the Word work this knowledge in us?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> By two things:</p>
+               <p n="1">1. By bringing us to a cleere sight, and lively feeling of our misery by sinne: <hi>Ro.</hi> 7.7.9. <hi>Acts.</hi> 2.37.</p>
+               <p n="2">2. By bringing us to the knowledge of our Re<g ref="char:EOLhyphen"/>demption out of that estate by Christ. <hi>Luk.</hi> 3.3. <hi>Luk.</hi> 24.47.</p>
+               <p>Quest. <hi>Wherein doth our wretchednesse consist?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> In two things: First in the losse of hap<g ref="char:EOLhyphen"/>pinesse. <hi>Gen.</hi> 3.17.23. Secondly in the gaine of misery. <hi>Psal.</hi> 14.3.</p>
+               <p>Quest. <hi>Wherein stood that happinesse, which by him we have now lost?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> In being like God in holinesse, and true righteousnesse without corruption. <hi>Gen.</hi> 1.27. and in being conformable to the law of God in sound obedience without imperfection. <hi>Eccles.</hi> 7.29.</p>
+               <p>Quest. <hi>What is it that maketh our estate now so miserable?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Sinne, and the curse due to sinne? <hi>Ia.</hi> 1.14, 15. <hi>Gal.</hi> 3.10. <hi>Psal.</hi> 38.3, 4.</p>
+               <p>Quest. <hi>Wherein standeth our sinfulnesse?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> In two things: First in that we are <hi>guilty</hi> of <hi>Adams</hi> sinne, because we were in his loines. <hi>Ro.</hi> 5.13. Secondly, In that all the powers of our soules, and members of our bodies, are now by na<g ref="char:EOLhyphen"/>ture <hi>corrupted. Ephes.</hi> 2.1. <hi>Ro.</hi> 6.19. <hi>Tit.</hi> 1.15.16. <hi>Ia.</hi> 3.15.</p>
+               <p>Qu. <hi>How doth this sinfulnesse make us miserable?</hi>
+               </p>
+               <pb facs="tcp:107564:3"/>
+               <p>
+                  <hi>Ans.</hi> Seven wayes:</p>
+               <p n="1">1 In <hi>abolishing</hi> Gods image. <hi>Gen.</hi> 3.7. <hi>Gen.</hi> 6.5.</p>
+               <p n="2">2 In <hi>filling</hi> our whole man with corruption. <hi>Psal.</hi> 53.</p>
+               <p n="3">3 In <hi>making</hi> us vassalls unto sinne and Satan. <hi>Ro.</hi> 7.14. <hi>Ephes.</hi> 2.3. 2 <hi>Tim.</hi> 2.26.</p>
+               <p n="4">4 In <hi>disabling</hi> us to understand the will, and observe the Commandments of the Lord. <hi>Ioh.</hi> 1.5. <hi>Ephe.</hi> 4.18, 19.</p>
+               <p n="5">5 In <hi>causing</hi> us to lose our right unto, and So<g ref="char:EOLhyphen"/>veraignty over the creatures. <hi>Rom.</hi> 8.20, 21, 22. <hi>Tit.</hi> 1 15.</p>
+               <p n="6">6 In making our persons, and actions <hi>unaccep<g ref="char:EOLhyphen"/>table</hi> unto God. <hi>Prov.</hi> 15.8, 9. <hi>Ioh</hi> 9.31.</p>
+               <p n="7">7 In <hi>casting</hi> us out of Gods favour, and in ma<g ref="char:EOLhyphen"/>king us liable unto death eternall. <hi>Isa.</hi> 59.1, 2, 3. <hi>Iere.</hi> 5.25. <hi>Mat.</hi> 25.41.</p>
+               <p>Quest. <hi>Cannot man, being in this estate, turne himself unto God?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> No; For,</p>
+               <p n="1">1 He is altogether <hi>indisposed</hi> unto any good. 2 <hi>Cor.</hi> 3 5. <hi>Ephes,</hi> 2.1. <hi>Mat.</hi> 7.17, 18.</p>
+               <p n="2">2 He is strongly bent, and <hi>inclined</hi> unto what is evill, <hi>Iere.</hi> 17.9. <hi>Ro.</hi> 8 7. <hi>Acts.</hi> 7.51.</p>
+               <p n="3">3 He is a very <hi>enemie</hi> against God. <hi>Col.</hi> 1.21. <hi>Rom</hi> 8.7.</p>
+               <p n="4">4 He hath a <hi>base estimation</hi> of the meanes ap<g ref="char:EOLhyphen"/>pointed to convert him, 1 <hi>Cor.</hi> 1.23. <hi>Iob.</hi> 21.14, 15. <hi>Acts</hi> 17.18 <hi>Psal.</hi> 58 5, <hi>Mat.</hi> 22.5, 6.</p>
+               <p n="5">5 The deceitfull <hi>proffers</hi> of sinne are very <hi>plea<g ref="char:EOLhyphen"/>sing</hi> to him. <hi>Pro.</hi> 9.17. <hi>Prov.</hi> 10.23.</p>
+               <p n="6">6 The <hi>waies</hi> of God, and they who walke in
+<pb facs="tcp:107564:4"/>them, seem <hi>base,</hi> and of no account with him. <hi>Ioh.</hi> 7.48. <hi>Isa.</hi> 8.18. 1 <hi>Cor.</hi> 4.13. <hi>Mal.</hi> 3.13, 14, 15.</p>
+               <p>Quest. <hi>Wherein standeth the cursednesse of man?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> In being subject to all the plagues of this life, and of the life to come. <hi>Ro.</hi> 6.23.</p>
+               <p>Quest. <hi>What are the plagues whereunto he is sub<g ref="char:EOLhyphen"/>ject here in this life?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> To grievous changes in his estate, loath<g ref="char:EOLhyphen"/>some diseases in his body, vile lusts, and raigning corruptions in his soule. <hi>Levit.</hi> 26.15, 16, 17. <hi>Deu.</hi> 28.16, 17. <hi>Rom.</hi> 1.25.26, 27, 28, 29.</p>
+               <p>Quest. <hi>What are the plagues he is subject to in the life to come?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> They are endlesse, easelesse, and remedi<g ref="char:EOLhyphen"/>lesse torments. <hi>Mar.</hi> 9.45, 46.</p>
+               <p>Quest. <hi>What ought the consideration of this sin<g ref="char:EOLhyphen"/>full and cursed estate worke in us?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Deep and serious humiliation, with an un<g ref="char:EOLhyphen"/>cessant care to get forth of the same. <hi>Ro.</hi> 7.24. <hi>Iob.</hi> 42.6. <hi>Acts</hi> 2.37.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <head type="sub">Question.</head>
+               <p>
+                  <hi>HAving shewed me mans misery by sin, tell me now in what order doth God bring man out of that estate, unto glory in heaven?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> God proceedeth in the worke of mans salvation by sixe Steps.</p>
+               <p>Quest. <hi>What are they?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> 1. Election. 2. Redemption. 3. Voca<g ref="char:EOLhyphen"/>tion.
+<pb facs="tcp:107564:4"/>5. Sanctification. 6. Glorification.</p>
+               <p>Quest. <hi>What is election?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> It is the eternall decree of God, whereby he freely and infallibly appointed, for the glory of his owne Name, to bring some men to everlasting life through Christ. <hi>Ephe.</hi> 1.4, 5, 6.</p>
+               <p>Quest. <hi>What did move God to elect some men unto lise?</hi>
+               </p>
+               <p>
+                  <hi>Ans,</hi> Neither fore-seen Faith, workes, freedom of will, noblenesse of birth, nor merit of Christ, but only the good pleasure of God. <hi>Deut.</hi> 7.7, 8. 2 <hi>Tim.</hi> 1, 9. <hi>Ephe.</hi> 1.5.11. <hi>Rom.</hi> 9.11, 12, 13. <hi>Ioh.</hi> 1.13.</p>
+               <p>Quest. <hi>By what Reasons can you further make it manifest, that God of his owne good pleasure, doth choose men unto life eternall?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Chiefly by these sixe:</p>
+               <p n="1">1 Because God is a <hi>free Agent,</hi> his Will is inde<g ref="char:EOLhyphen"/>pendent. <hi>Psal.</hi> 135.4, 5, 6. <hi>Ro.</hi> 9.21.</p>
+               <p n="2">2 Because God could <hi>fore-see no good</hi> thing in us, but what himselfe had determined to work. 1 <hi>Cor.</hi> 4.7. <hi>Phil.</hi> 2.13. 1 <hi>King.</hi> 8.57.58.</p>
+               <p n="3">3 Because our Redemption, Vocation, Justifi<g ref="char:EOLhyphen"/>cation, and Sanctification are altogether <hi>free. Ioh.</hi> 3.16. <hi>Gal.</hi> 1.15. 2 <hi>Tim.</hi> 1.9. <hi>Ro.</hi> 8.30, 31, 32. 1 <hi>Cor.</hi> 1.30.</p>
+               <p n="4">4 Because such as have the <hi>best</hi> naturall endow<g ref="char:EOLhyphen"/>ments are most commonly <hi>left,</hi> and they who have <hi>least,</hi> are most frequently <hi>elected.</hi> 1 <hi>Cor.</hi> 1.26, 27, 28, <hi>Matt.</hi> 11.25, 26.</p>
+               <p n="5">5. Because the greatest <hi>sinners</hi> are many times <hi>converted,</hi> when others not so notoriously evill
+<pb facs="tcp:107564:5"/>continue unregenerate. <hi>Mat.</hi> 21.28, 29, 30, 31, 32. 1 <hi>Timo.</hi> 1.15. 2 <hi>Cron.</hi> 33.12, 13.</p>
+               <p n="6">6 Because man shall have nothing whereof to glory, but ascribe the praise of the whole worke of his salvation unto God. 1 <hi>Cor.</hi> 1.28, 29, 30.31.</p>
+               <p>Quest. <hi>What are the properties of Election?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> They are these three.</p>
+               <p n="1">1 Election is <hi>eternall. Ephe.</hi> 1.4.</p>
+               <p n="2">2 <hi>Ʋnchangeable.</hi> 2 <hi>Tim.</hi> 2.19. <hi>Rom.</hi> 8.38, 39. <hi>Rom.</hi> 11.2.29. <hi>Joh.</hi> 10.28.29.</p>
+               <p n="3">3 <hi>Free</hi> and independent. <hi>Ro.</hi> 9.18. <hi>Isai.</hi> 60.21.</p>
+               <p>Quest. <hi>What are the signes of Election?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> First, A <hi>lively feeling</hi> of our effectuall vo<g ref="char:EOLhyphen"/>cation. <hi>Rom.</hi> 8.30. 1 <hi>Pet.</hi> 2.9. 2 <hi>Thess.</hi> 2, 13.14.</p>
+               <p n="2">2 <hi>Newnesse,</hi> and purity of heart, and life. 2 <hi>Tim.</hi> 1.19, 20, 21. <hi>Ioh.</hi> 3.3. 1 <hi>Ioh.</hi> 3.2, 3.</p>
+               <p n="3">3 An <hi>intire love</hi> to Gods Word, and people. 1 <hi>Ioh.</hi> 4.16, 17. 1 <hi>Ioh.</hi> 3.13, 24. <hi>Ioh.</hi> 8.47.</p>
+               <p n="4">4 A <hi>deadly hatred</hi> from the world, for the un<g ref="char:EOLhyphen"/>fained love we beare to Christ. <hi>Ioh.</hi> 15.19.</p>
+               <p n="5">5 The <hi>internall Testimony</hi> of Gods Spirit, wit<g ref="char:EOLhyphen"/>nessing to our consciences, that wee are the chil<g ref="char:EOLhyphen"/>dren of God. <hi>Ro.</hi> 8.16. 1 <hi>Ioh.</hi> 5.6, 7, 8. 1 <hi>Joh.</hi> 4.13.</p>
+               <p n="6">6 A <hi>sanctified peace</hi> of conscience. <hi>Ro.</hi> 5.1, 2.</p>
+               <p n="7">7 A <hi>holy contentednesse,</hi> and heavenly walking with God, at all times, and in all estates. <hi>Phil.</hi> 4.11.12. 1 <hi>Pet.</hi> 1.17. <hi>Act.</hi> 24.16.</p>
+               <p n="8">8 An <hi>earnest looking</hi> for, and longing after the comming of Christ Jesus to judgement. 2 <hi>Pet.</hi> 3.12, 13, 14. 2 <hi>Tim.</hi> 4.8. <hi>Revel.</hi> 22, 20. Hee that find<g ref="char:EOLhyphen"/>eth
+<pb facs="tcp:107564:5"/>all, or any one of these signes truly wrought in him, may infallibly assure himself of his Election.</p>
+               <p>Quest. <hi>Hath not God in his secret Decree rejected some, as well as elected others?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Yes. <hi>Revel.</hi> 13.8. <hi>Prov.</hi> 16.4. <hi>Isai.</hi> 41.9. <hi>Mal.</hi> 1.3. <hi>Ro.</hi> 9.18. <hi>Ro.</hi> 11.7. 1 <hi>Thess.</hi> 5.9. 2 <hi>Tim.</hi> 2.20. <hi>Jude</hi> ver. 4.</p>
+               <p>Qu. <hi>What is Reprobation?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> It is the eternall and unchangeable decree of God, not to bestow on some men the grace of election, <hi>Ro.</hi> 9.11.12, 13.</p>
+               <p>Quest. <hi>What is the moving cause hereof?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> The good pleasure of God. <hi>Mat.</hi> 11.25, 26.</p>
+               <p>Qu. <hi>What is the finall cause hereof?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> That Gods absolute power over the Crea<g ref="char:EOLhyphen"/>ture might be declared, and his mercy to the elect commended. <hi>Ro.</hi> 9.17.22.</p>
+               <p>Qu. <hi>Doe you not hereby make God the Authour of sinne, and unjust, in condemning man for sinne?</hi>
+               </p>
+               <p>
+                  <hi>Ans. No;</hi> for,</p>
+               <p n="1">1 Reprobation goeth before sinne, not as a <hi>cause,</hi> but as an <hi>antecedent,</hi> as the absence of the Sun is an Antecedent, but not a cause of the freezing of water.</p>
+               <p n="2">2 God by the decree of Reprobation, doth not infuse any evill into man, nor compell man to doe any evill, <hi>Iam.</hi> 1.13.14. but determineth:</p>
+               <p n="1">1 Not to <hi>conferre</hi> upon man, and confirme in him that grace which should make him stand, <hi>Deut.</hi> 29.4. <hi>Psal.</hi> 81.13.</p>
+               <p n="2">2 To <hi>permit</hi> man of his owne accord to commit sinne. <hi>Psal.</hi> 81.12. <hi>Ephes.</hi> 4.19.</p>
+               <pb facs="tcp:107564:6"/>
+               <p n="3">3 To <hi>limit</hi> him how farre he shall goe in sinne. 2 <hi>Kings</hi> 19.28.</p>
+               <p n="4">4 He ordaineth, beyond the nature of sinne, and the purpose of the sinner, to <hi>order,</hi> and turne it to a good end, even the manifestation of his owne glo<g ref="char:EOLhyphen"/>ry, in the execution of his justice upon the impe<g ref="char:EOLhyphen"/>nitents, and in shewing mercy to his chosen. <hi>Ro.</hi> 9.22.23.</p>
+               <p n="3">3 Reprobation being an act of Gods absolute <hi>power,</hi> hath no other cause, but Gods good <hi>pleasure. Ro,</hi> 9.21. but damnation being an act of Gods <hi>Iu<g ref="char:EOLhyphen"/>stice,</hi> hath <hi>sinne</hi> to be the meritorious cause there<g ref="char:EOLhyphen"/>of. <hi>Hos.</hi> 13.9. <hi>Ezek.</hi> 18.30.</p>
+               <p n="4">4 The fall of man, in regard of the <hi>liberty</hi> of mans will, was <hi>avoidable,</hi> but in regard of the <hi>event</hi> of the action, it was <hi>inevitable;</hi> the Lord ha<g ref="char:EOLhyphen"/>ving decreed, not to stirre up the will of man to persist in uprightnesse, and to resist Satans tempta<g ref="char:EOLhyphen"/>tion, he voluntarily inclined to what was forbid<g ref="char:EOLhyphen"/>den. <hi>Gen.</hi> 3.6.</p>
+               <p n="5">5 Man is not condemned, because he <hi>cannot</hi> but sinne, in regard of Gods decree of <hi>reprobation,</hi> but because he <hi>will</hi> doe no other than sin, in regard of his owne <hi>inclination. Hos.</hi> 13.9. <hi>Psal.</hi> 81.10, 11, 12. <hi>Mat,</hi> 23.37. <hi>Ezek.</hi> 18.31, 32.</p>
+               <p n="6">6 Though unregenerate man doth nothing but what God hath in his secret decree appointed, yet he sinneth, because what he doth, is in obedi<g ref="char:EOLhyphen"/>ence to his owne <hi>will,</hi> and not to Gods <hi>commande<g ref="char:EOLhyphen"/>ment. Isa.</hi> 10.5, 6, 7. <hi>Acts</hi> 4.27.28.</p>
+               <p n="7">7 Whom God hath not ordained to <hi>save,</hi> them he hath appointed to leave to themselves, to con<g ref="char:EOLhyphen"/>tinue
+<pb facs="tcp:107564:6"/>in blindnesse, and hardnesse of heart, till the measure of their sinne be filled up. 1 <hi>Pet.</hi> 2.8. <hi>Isa.</hi> 6.9. 2 <hi>Cor.</hi> 4.3, 4.</p>
+               <p>Quest. <hi>What are the Signes of Reprobation?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> An infallible signe can very hardly be gi<g ref="char:EOLhyphen"/>ven, but signes very probable there be eight.</p>
+               <p n="1">1 When God doth either <hi>not bestow</hi> upon men, or else doth take from them the faithfull Ministers of the Word, the ordinary meanes of their salvati<g ref="char:EOLhyphen"/>on. <hi>Mat.</hi> 10.5. <hi>Mat.</hi> 23.37, 38, 39. <hi>Act.</hi> 13.46.</p>
+               <p n="2">2 When God doth <hi>not incline</hi> the heart to be o<g ref="char:EOLhyphen"/>bedient to the outward means which he affordeth. 1 <hi>Sam.</hi> 2.25. <hi>Mat.</hi> 11.21.22.23. 2 <hi>Cron.</hi> 25.16.</p>
+               <p n="3">3 When mens hearts are <hi>hardned,</hi> by the Mini<g ref="char:EOLhyphen"/>stery of the Word, and other means of life. <hi>Isa.</hi> 6.9.10. 2 <hi>Cor.</hi> 2.15, 16. 1 <hi>Pet.</hi> 2.7, 8. <hi>Ioh.</hi> 13.2.</p>
+               <p n="4">4 When God doth send upon men the <hi>Spirit of slumber,</hi> to make them secure, and unsensible of the danger of their naturall estate, and present conditi<g ref="char:EOLhyphen"/>on. <hi>Ro.</hi> 11.8. <hi>Isai.</hi> 19.14.</p>
+               <p n="5">5 When God doth <hi>give men up</hi> to a <hi>reprobate minde,</hi> disabling them to judge aright betweene things spiritually good, and evill. <hi>Ro.</hi> 1.28. 2 <hi>Pet.</hi> 2.12. 2. <hi>Cor.</hi> 4.3.</p>
+               <p n="6">6 When God doth <hi>give men up</hi> to Satan, to de<g ref="char:EOLhyphen"/>ceivers, or to strong delusions, to be seduced. 2 <hi>Cor.</hi> 4.4. 2 <hi>Thess.</hi> 2, 9.10, 11, 12. <hi>Mica.</hi> 2.11. 1 <hi>Kings.</hi> 22.20, 21.22, 23.</p>
+               <p n="7">7 When men receive not the truth with an un<g ref="char:EOLhyphen"/>fained <hi>love</hi> to the truth. 2 <hi>Thes.</hi> 2.10, 12.</p>
+               <p n="8">8 When men turne Gods <hi>grace into wantonnesse,</hi> presuming to continue sinfull, because God is long<g ref="char:EOLhyphen"/>suffering,
+<pb facs="tcp:107564:7"/>and mercifull. <hi>Rom.</hi> 2.4, 5. <hi>Iude E<g ref="char:EOLhyphen"/>pist.</hi> v. 4.</p>
+               <p>Quest. <hi>Doth not this Doctrine of Election and Reprobation, make men secure and carelesse?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> No: for as God hath appointed men to <hi>glory,</hi> so he hath appointed them to <hi>Sanctification;</hi> and to the use of all holy means to attaine that end. 2 <hi>Thes.</hi> 2.13, 14. <hi>Ephes.</hi> 1.4. 2 <hi>Pet.</hi> 1.10.</p>
+               <p>Quest. <hi>Can you shew me yet more cleerly how the three persons in the God-head doe proceed in accom<g ref="char:EOLhyphen"/>plishing the worke of mans salvation?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Yes:</p>
+               <p n="1">1 No man commeth to the Son, but from the Fa<g ref="char:EOLhyphen"/>ther by <hi>Election. Io.</hi> 6.37.65. <hi>Joh.</hi> 17.2, 6, 7.</p>
+               <p n="2">2 No man commeth to the Father from the bon<g ref="char:EOLhyphen"/>dage of sin and Satan, but by the Sonne, through the worke of <hi>Redemption,</hi> and mediation. <hi>Ephes.</hi> 1.9, 10. <hi>Ioh.</hi> 14.6.</p>
+               <p n="3">3 No man is united to the Sonne, but by the holy Ghost, working faith and <hi>Sanctification</hi> in them whom the Father did choose, and the Sonne Redeeme. 2 <hi>Thess.</hi> 2.13. 1 <hi>Pet.</hi> 1, 2, 3.</p>
+               <p n="4">4 The whole worke of mans salvation, is <hi>from</hi> the Father, by the <hi>inchoation,</hi> or beginning of the Decree <hi>in</hi> the Sonne, by the <hi>dispensation</hi> of the means, <hi>by</hi> the holy Ghost, for the <hi>Consummation</hi> of the means <hi>unto faith,</hi> as the instrument to apply them, and <hi>unto obedience,</hi> and true holinesse, as the fruit of faith, and way to heaven. 1 <hi>Pet.</hi> 1.2, 3, 4.</p>
+               <p>Quest. <hi>What rules can you give me for the better understanding of this deep Mystery of Election and Reprobation?</hi>
+               </p>
+               <pb facs="tcp:107564:7"/>
+               <p>
+                  <hi>Ans.</hi> The Rules requisite to the right understan<g ref="char:EOLhyphen"/>ding hereof are five sorts.</p>
+               <p>Qu. <hi>What doth the first sort of these Rules respect?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> The foreknowledge of God.</p>
+               <p>Qu. <hi>What are the Rules which respect Gods fore<g ref="char:EOLhyphen"/>knowledge?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> They are seven.</p>
+               <p n="1">1 That Gods foreknowledge is <hi>independent,</hi> and not occasioned by the thing foreseene, because the foreknower stampeth his impression in the things foreknowne, but the things foreknowne make no impression in the foreknower.</p>
+               <p n="2">2 God <hi>foreseeth no good</hi> thing in the Creatures, nor any inclination unto goodnesse: but what him<g ref="char:EOLhyphen"/>selfe from all eternity had ordained to worke in them, both for essence, and inclination.</p>
+               <p n="3">3 Things future, are therfore <hi>future,</hi> and to come; because God did foreknow, and <hi>fore-ordaine</hi> them, his knowledge dependeth not on them, but their comming to passe dependeth upon his decree.</p>
+               <p n="4">4 Gods fore-knowledge is not the <hi>cause</hi> of that which God hath decreed to <hi>permit</hi> (to wit sinne) but of that only which God hath decreed to <hi>work,</hi> that is the creatures, their qualities, motions, and actions.</p>
+               <p n="5">5 Gods fore-knowledge is not <hi>speculative,</hi> but practicall, not declaring things to come, as hee seeth them in their causes: but effecting whatsoe<g ref="char:EOLhyphen"/>ver he will have done, be it good or evill, either by a powerfull working, or by a voluntary permis<g ref="char:EOLhyphen"/>sion, and wise ordering of it, to the end whereto he did appoint it.</p>
+               <pb facs="tcp:107564:8"/>
+               <p n="6">6 Whatsoever God <hi>fore-knows,</hi> that he Willeth, because nothing can come to passe, which he wil<g ref="char:EOLhyphen"/>leth not; the Lord by himself, or by others, doing whatsoever is good, but suffering others to doe that which is evill.</p>
+               <p n="7">7 Gods foreknowledge of his Elect, is not a <hi>na<g ref="char:EOLhyphen"/>ked</hi> knowledge, but a knowledge joyned with a <hi>lo<g ref="char:EOLhyphen"/>ving affection,</hi> and benevolous purpose in God, to appoint, and bring them to eternall life, out of his owne singular love.</p>
+               <p>Quest. <hi>What doth the second sort of Rules respect?</hi>
+               </p>
+               <p>
+                  <hi>Ans</hi> The Will of God.</p>
+               <p>Quest. <hi>What are the Rules which respect the Will of God?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> They are nine.</p>
+               <p n="1">1 You must not conceive any thing to be <hi>before</hi> the will, counsell, purpose, and decree of God; be<g ref="char:EOLhyphen"/>cause these be eternall, and no man may looke be<g ref="char:EOLhyphen"/>yond eternity, for a reason of any thing.</p>
+               <p n="2">2 God primarily willeth <hi>himself</hi> as the chiefe good.
+<note place="margin">
+                     <hi>Augustin. Enchirid. cap.</hi> 11. <hi>Gregor. Moral. lib.</hi> 18. <hi>cap.</hi> 17.</note> Secondarily, the <hi>Crea<g ref="char:EOLhyphen"/>tures,</hi> as they doe more or lesse beare his image. Thirdly, he willeth <hi>sinne</hi> not immediately, or simply for it self, for so he hateth the very being of it; but he wil<g ref="char:EOLhyphen"/>leth the permission, and disposition of sinne, as it may be reduced by his goodnesse and wisedom, to his owne glory, and the good of the crea<g ref="char:EOLhyphen"/>ture.</p>
+               <p n="3">3 Whatsoever God doth will in his secret Will, that he bringeth to passe: because he effecteth it in himself by a secret and unchangeable decree; and
+<pb facs="tcp:107564:8"/>out of himselfe, by two uncontrollable means, the dispensation of his Son, and consummation of his Spirit.</p>
+               <p n="4">4 We must not confound the secret, with the revealed Will of God; the decree of Predestinati<g ref="char:EOLhyphen"/>on, with the precepts of faith, and repentance.</p>
+               <p n="5">5. Gods revealed Will sheweth what ought to be performed by us, not that God hath in his se<g ref="char:EOLhyphen"/>cret Will decreed we either can, or shall be ena<g ref="char:EOLhyphen"/>bled to perform the same.</p>
+               <p n="6">6 Gods will is the reason why two men equal<g ref="char:EOLhyphen"/>ly miserable, are made to differ one from another, and not the fore-sight of our wills, receiving, or re<g ref="char:EOLhyphen"/>jecting grace proposed.</p>
+               <p n="7">7 The will of God is most free, and most sim<g ref="char:EOLhyphen"/>ple, and therefore there are neither two, nor more, nor contrary wills of God, but the will of God is most simply one.</p>
+               <p n="8">8 There are divers distinctions of the Will of God, but such as are rather nominall, than reall.</p>
+               <p n="9">9 The things which are done against the reveal<g ref="char:EOLhyphen"/>ed will of God, or the will of his precept, are not done without, or beside his secret Will, which is properly the Will of God; nothing being done, God willing, or unwilling.</p>
+               <p>Quest. <hi>What doth the third sort of Rules respect?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> The Decree of God.</p>
+               <p>Quest. <hi>What are the Rules respecting Gods De<g ref="char:EOLhyphen"/>cree?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> They are fourteene:</p>
+               <p n="1">1 The Decree of God is most wise, most free,
+<pb facs="tcp:107564:9"/>absolute, inconditionall, eternall, going before all second causes</p>
+               <p n="2">2 Though all things come to passe necessarily, ac<g ref="char:EOLhyphen"/>cording to the Decree of God, yet is his decree the cause of no sinne, the decree inferring no necessity of <hi>constraint,</hi> but of <hi>mutability.</hi>
+               </p>
+               <p n="3">3 The decree of God takes away neither liberty from the reasonable creatures, or contingency from second causes.</p>
+               <p n="4">4 Gods decree of Election, or Reprobation, must not be grounded upon any thing in man, but alto<g ref="char:EOLhyphen"/>gether upon the free-will, and good pleasure of God.</p>
+               <p n="5">5 Wee must carefully put a difference between the <hi>decree</hi> of Election and Reprobation, and the <hi>execution;</hi> because the decree is <hi>eternall,</hi> and be<g ref="char:EOLhyphen"/>fore sinne; the execution of the decree is <hi>temporall,</hi> and after sinne, the decree respecteth man in ge<g ref="char:EOLhyphen"/>nerall, as he is a creature capable either of glory, or ignominy, the execution looketh on man, as he is in sinne.</p>
+               <p n="6">6 We must take heed that we neither confound the decree with the execution of the decree, nor the <hi>means</hi> of salvation or damnation, with the <hi>causes</hi> of Election or Reprobation: you may not make Christ and Faith the causes of Election, be<g ref="char:EOLhyphen"/>cause they be means of salvation: you must not take incredulity, and sinne to be the cause of Re<g ref="char:EOLhyphen"/>probation: because sinne doth not goe before, but follow after Reprobation.</p>
+               <p n="7">7 We must distinguish between the Decree of <hi>non-Election,</hi> or Reprobation; and the decree of
+<pb facs="tcp:107564:9"/>
+                  <hi>destination</hi> unto punishment, or preparation to pu<g ref="char:EOLhyphen"/>nishment, which is usually called Predamnation: because the former dependeth soly upon the good <hi>pleasure</hi> of God, the other is an act of Gods <hi>justice:</hi> the one floweth from God, as he is a God of <hi>abso<g ref="char:EOLhyphen"/>lute power,</hi> the other floweth from God, as he is a God of <hi>justice:</hi> the one respecteth man, as he is a reasonable creature, <hi>mutable,</hi> the other as he is <hi>fal<g ref="char:EOLhyphen"/>len</hi> into sin.</p>
+               <p n="8">8 We must carefully apply a right <hi>object,</hi> to each severall <hi>act,</hi> which we conceive to be in Gods De<g ref="char:EOLhyphen"/>cree: thus we must apply <hi>Eternall Election,</hi> and Reprobation, to the attribute of <hi>power,</hi> dominion, and good pleasure in God. We must apply actuall and <hi>temporall election,</hi> which respecteth man in sin, to the attribute of <hi>mercy</hi> in God: the <hi>destination</hi> of men not Elected unto punishment, must be refer<g ref="char:EOLhyphen"/>red to the attribute of <hi>Iustice.</hi>
+               </p>
+               <p n="9">9 The proper object of Eternall Election, and Reprobation, or Preterition, is the <hi>reasonable crea<g ref="char:EOLhyphen"/>ture,</hi> capable of glory, or ignominy; as we may see in the election, and preterition of Angels, who were not in the masse of sin: and in the Election of Christ, as man, in whom there was no sinne.</p>
+               <p n="10">10 The Decree of Election and Reprobation is an immanent act in God alone, as in the <hi>Subject;</hi> from God alone, as from the <hi>cause:</hi> but damnation is neither <hi>originally</hi> from God, nor <hi>subjectively</hi> in God, but is a <hi>transient effect</hi> of his Justice.</p>
+               <p n="11">11 Mans <hi>salvation</hi> in the order of Gods Decree, and Counsell goeth before the <hi>meanes,</hi> because e<g ref="char:EOLhyphen"/>very
+<pb facs="tcp:107564:10"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:107564:10"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:107564:11"/>very wise Agent resolveth first of the end, and then of the means.</p>
+               <p n="12">12 As God ordaineth the <hi>end,</hi> so also he appoin<g ref="char:EOLhyphen"/>teth most apt, convenient, and powerfull <hi>means,</hi> to accomplish that end; his decree of Election and Reprobation, being as immutable as himself.</p>
+               <p n="13">13 God being a most wise Agent, propoundeth unto himself the manifestation of his owne glory, as a most certaine, and infallible end, appointing and making all things to serve thereunto.</p>
+               <p n="14">14 There neither is, nor can be any impulsive cause of the Decree of God, besides the free Will, and good pleasure of God.</p>
+               <p>Quest. <hi>What doth the fourth sort of Rules re<g ref="char:EOLhyphen"/>spect?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> The manner of the Three Persons, work<g ref="char:EOLhyphen"/>ing in the work of mans salvation.</p>
+               <p>Quest. <hi>What are the Rules respecting the work<g ref="char:EOLhyphen"/>ing of the Three Persons.</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> They are these:</p>
+               <p n="1">1 Election being an originall worke, is attribu<g ref="char:EOLhyphen"/>ted to the first Person, and the Sonnes dispensati<g ref="char:EOLhyphen"/>on is according to the Fathers Election.</p>
+               <p n="2">2 The Father made <hi>choise</hi> of certaine people unto eternall life, as his inheritance; the Son <hi>pur<g ref="char:EOLhyphen"/>chased</hi> what the Father had chosen, and the holy Ghost working from the Father and the Sonne, doth <hi>take possession,</hi> and expelleth sin and Satan.</p>
+               <p n="3">3 Man is Elected in Christ, as the head of the <hi>elect,</hi> but not as the head or foundation of the Fa<g ref="char:EOLhyphen"/>thers <hi>election:</hi> for so the Father should begin from the Son, who alone worketh from himself by the Son.</p>
+               <pb facs="tcp:107564:11"/>
+               <p n="4">4 Christ is the Elect of the Father, therefore not the head of the Fathers Election: the <hi>dilecti<g ref="char:EOLhyphen"/>on</hi> of the Father, causeth the <hi>donation</hi> of the Son.</p>
+               <p n="5">5 Christ is chosen, 1 as <hi>Head,</hi> not to his Father, but over his members, and so he is the first of the Elect in order, and we are chosen in him. 2 He is chosen as a <hi>fountaine</hi> of grace, not to his Father, but from his father to us, as a Mediator and means for our good, and so becommeth our servant.</p>
+               <p>Quest. <hi>What doth the fift sort of Rules concerne?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Sinne.</p>
+               <p>Quest. <hi>What are the Rules which in this behalfe respect sinne?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> They are these:</p>
+               <p n="1">I. We must distinguish between a thing brought to passe as an <hi>effect,</hi> flowing from somthing, as the cause thereof (as the freezing of the Water fol<g ref="char:EOLhyphen"/>loweth the coldnesse of the Aire, as an effect of it) and betweene that which is a <hi>consequent,</hi> comming after some thing, as it is an antecedent; as the freezing of the water is a consequent, but not an effect of the absence of the Sun. So sin is a <hi>Conse<g ref="char:EOLhyphen"/>quent</hi> of Reprobation, not an effect; because God by not Electing man, doth not infuse any evill into man, nor take away any good thing from man, which he had, but doth thereby decree not to con<g ref="char:EOLhyphen"/>firme in him that good which should make him stand.</p>
+               <p n="2">II. The <hi>causality</hi> of the action, with the effe<g ref="char:EOLhyphen"/>ctuall concurrence, and immediate influence into the same, as also the direction, and determination
+<pb facs="tcp:107564:12"/>of it, must be referred unto God: but the <hi>sin,</hi> disor<g ref="char:EOLhyphen"/>der, or deficiencie of the action, must be referred unto man, as the authour, and rest in man, as in the Subject.</p>
+               <p n="3">III. The action, as it proceedeth from an <hi>evill will,</hi> and looketh to an <hi>evill end,</hi> so it commeth from man; but as it is ordered by God, to a <hi>good end,</hi> so it commeth from him.</p>
+               <p n="4">IV. Look on the <hi>decree</hi> of God; &amp; you shal see, that that is an immanent act <hi>residing</hi> in God, working nothing, <hi>infusing</hi> no corruption into the Creature, not at all <hi>inforcing</hi> the creature to any evill; but <hi>lea<g ref="char:EOLhyphen"/>ving</hi> the creature to himself, the creature doth of its owne accord, decline from the Rule of Righte<g ref="char:EOLhyphen"/>ousnesse prescribed, from the estate of holinesse, in which it was created: God left man in a good e<g ref="char:EOLhyphen"/>state, made him the free beginner of his owne worke.</p>
+               <p n="5">V. Look on Gods <hi>Providence,</hi> and there you shall see Gods efficiency <hi>in,</hi> and <hi>about</hi> sin, but not of sin. You shall see his efficiency in sin.</p>
+               <p n="1">1 In <hi>fore-knowing,</hi> and fore-appointing it. <hi>Gene.</hi> 50.19. for whatsoever is, is either <hi>against</hi> the will of God, and then he cannot be <hi>omnipotent;</hi> or be<g ref="char:EOLhyphen"/>sides the Will of God, and then he cannot be <hi>omni<g ref="char:EOLhyphen"/>provident,</hi> omnidisponent; or else it must be <hi>with</hi> the will of God, for who hath resisted his Will? <hi>Rom.</hi> 9.19. Sinne is against the Rule of Righte<g ref="char:EOLhyphen"/>ousnesse, which God hath prescribed, but not a<g ref="char:EOLhyphen"/>gainst the secret Will of God, which cannot be re<g ref="char:EOLhyphen"/>sisted.</p>
+               <p n="2">2 Here you shall see the Efficiency of God, in
+<pb facs="tcp:107564:12"/>sustaining the nature of the sinner, for in him we live, move, and have our being. <hi>Acts.</hi> 17.28.</p>
+               <p n="3">3 In the <hi>permission</hi> of the Sin. <hi>Acts</hi> 14.16.</p>
+               <p n="4">4 In the <hi>desertion</hi> of the sinner. <hi>Isai.</hi> 5.5, 6.</p>
+               <p n="5">5 In the <hi>tradition,</hi> and delivering up of sinners to Satan, and vile affections, as an act of justice, a punishment for their former impieties. <hi>Rom.</hi> 1.24.</p>
+               <p n="6">6 In the <hi>limitation</hi> of them in their profane en<g ref="char:EOLhyphen"/>terprises. <hi>Isa.</hi> 8.10.</p>
+               <p n="7">7 In giving leave to wicked Instruments to in<g ref="char:EOLhyphen"/>cite, and stirre up others to evill. <hi>Kings</hi> 22.22.</p>
+               <p n="6">VI. Look on <hi>sinne,</hi> and you shall see it is from evill, <hi>defectively:</hi> sin hath properly no efficient,
+<note place="margin">A malo defective.</note> but a deficient cause: for sin is not proper<g ref="char:EOLhyphen"/>ly an action, but a defect, an obliquity, or error in the action: sinne hath no positive being, but is a privation evilly affecting the subject wherein it is: Sin is from a good cause <hi>permissively,</hi> disposively:
+<note place="margin">A bono permissivè. In bono subjectivè.</note> Sin is in that which is good <hi>Subjectively,</hi> the action is good, the obliquity of the action is e<g ref="char:EOLhyphen"/>vill: Sin is to good <hi>Reductively:</hi>
+                  <note place="margin">Ad bonum reductivè.</note> God the chiefest Good, would never have permitted sin, had he not knowne how to make a good use thereof.</p>
+               <p n="7">VII. The worke of God about sin is considerable in the inchoation, progresse, and consummation of sinne. In the <hi>inchoation</hi> by <hi>prohibition,</hi> and permis<g ref="char:EOLhyphen"/>sion: by <hi>prohibition,</hi> if there had been no prohibiti<g ref="char:EOLhyphen"/>on, there had been no sin, where is no law, is no sin: by <hi>permission,</hi> if God would not have permit<g ref="char:EOLhyphen"/>ted
+<pb facs="tcp:107564:13"/>it, it could not have been.</p>
+               <p>In the <hi>progresse</hi> of sin, Gods worke is seen in the <hi>direction</hi> and limitation of it, for the time when, continuance how long, and measure how much.</p>
+               <p>In the end or <hi>consummation</hi> of sin, the worke of God is seene, in shewing his mercy in forgiving some, and his justice in punishing others.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III.</head>
+               <head type="sub">Question.</head>
+               <p>
+                  <hi>VVHat is the second step by which God procee<g ref="char:EOLhyphen"/>deth in the worke of mans salvation?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Redemption. <hi>Ephes.</hi> 1.7.</p>
+               <p>Quest. <hi>What are we to consider concerning mans Redemption?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Sixe things.</p>
+               <p n="1">1 Who wrought it.</p>
+               <p n="2">2 Wherein it consisteth.</p>
+               <p n="3">3 How it is made known unto us.</p>
+               <p n="4">4 How it is imbraced, and received by us.</p>
+               <p n="5">5 For what end we are redeemed.</p>
+               <p n="6">6 What benefits we must see hereof in our selves.</p>
+               <p>Quest. <hi>By whom was our Redemption wrought?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Only by Christ. <hi>Gal.</hi> 4.5. 1 <hi>Cor.</hi> 1.30. <hi>Acts</hi> 4.12.</p>
+               <p>Quest. <hi>What is Christ?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> He is the Sonne of God, by <hi>eternall gene<g ref="char:EOLhyphen"/>ration,</hi> according to his God-head, and by grace of
+<pb facs="tcp:107564:13"/>
+                  <hi>personall union,</hi> according to his manhood. <hi>Psal.</hi> 2.7. <hi>Luk.</hi> 1.35.</p>
+               <p>Quest. <hi>How is Christ distinguished from the Fa<g ref="char:EOLhyphen"/>ther?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Two waies:</p>
+               <p n="1">1 According to his <hi>person,</hi> as he is the Sonne of God, the second Person in the Trinity. 1 <hi>John</hi> 5.7.</p>
+               <p n="2">2 According to his <hi>office,</hi> as he is Mediator, both God and Man. <hi>Io.</hi> 17.5.</p>
+               <p>Quest. <hi>How is Christ said to be both equall and inferiour to the Father?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> He is equall, according to his <hi>divine na<g ref="char:EOLhyphen"/>ture,</hi> but inferior, according to his <hi>office</hi> of Media<g ref="char:EOLhyphen"/>torship. <hi>Philip.</hi> 2.6. <hi>Ioh.</hi> 10.29, 30. <hi>Iohn</hi> 14.28.</p>
+               <p>Quest. <hi>How is Christ distinguished in him<g ref="char:EOLhyphen"/>self?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> By his Person, by his natures, by his pro<g ref="char:EOLhyphen"/>perties, by his actions: his Person is but <hi>one,</hi> his na<g ref="char:EOLhyphen"/>tures, properties, and actions are <hi>double,</hi> divine and humane. <hi>Matt.</hi> 1.23. <hi>Ioh.</hi> 1.14. <hi>Matth.</hi> 23.37. <hi>Ioh.</hi> 2.19.</p>
+               <p>Quest. <hi>Did he work our Rademption by one nature only, or else by both?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> By both his Natures. 1 <hi>Cor.</hi> 2.8.</p>
+               <p>Quest. <hi>Whence doth it appeare, that Christ is our Redeemer, and Mediator, according to both na<g ref="char:EOLhyphen"/>tures?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> 1 He did assume our flesh, that so being God, and man, he might be a fit Person to perform the office of a Redeemer, to reconcile both God
+<pb facs="tcp:107564:14"/>and man together. 1 <hi>Timothy</hi> 2.5.</p>
+               <p n="2">2 He was <hi>man,</hi> to suffer for man, and he was <hi>God,</hi> to make his suffering of an infinite value, a compleat satisfaction for mans Redemption. <hi>Heb.</hi> 2.14.15.17.</p>
+               <p n="3">3 Christ so performed the office of a Mediator, according to both natures, that there was a <hi>com<g ref="char:EOLhyphen"/>munion</hi> in the worke, but a <hi>distinction</hi> of the ver<g ref="char:EOLhyphen"/>tue and manner of the work, in the natures work<g ref="char:EOLhyphen"/>ing: Christ <hi>suffered</hi> in his humane nature, but <hi>su<g ref="char:EOLhyphen"/>stained</hi> and overcame the things which he suffered by the Power of his Divine Nature: He <hi>satisfied</hi> in the humane nature, but the worth, dignity, effica<g ref="char:EOLhyphen"/>cie, and application of the <hi>satisfaction proceeded</hi> from his Divine Nature. <hi>Heb.</hi> 9.14. <hi>Heb.</hi> 5.5. <hi>Act.</hi> 20.28.</p>
+               <p>Quest. <hi>How could the short sufferings of Christ satisfie the infinite Justice of God, and purchase his everlasting favour?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> The infinit merit of Christs passion ariseth from his infinite <hi>Godhead;</hi> mans sin, though in it self finite, yet became infinite, by being commit<g ref="char:EOLhyphen"/>ted against an infinite Justice: So Christs suffe<g ref="char:EOLhyphen"/>rings, though finite in regard of time, yet became infinite by divine merit. <hi>Acts</hi> 20.28.</p>
+               <p>Quest. <hi>But how doth this work of Redemption be<g ref="char:EOLhyphen"/>long to the divine nature, seeing the divine nature could not suffer, because it was immutable, nor die, be<g ref="char:EOLhyphen"/>cause it was immortall?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> In regard of <hi>personall union,</hi> the divine na<g ref="char:EOLhyphen"/>ture manifesting it self in the flesh, and the humane nature being made one by personall union with
+<pb facs="tcp:107564:14"/>the divine, whatsoever is done to either of the na<g ref="char:EOLhyphen"/>tures, is taken as done unto them both. <hi>Iohn</hi> 1.14. <hi>Phil.</hi> 2.7, 8.</p>
+               <p>Quest. <hi>How manifold is the office of Christ the Mediator?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Threefold, as a <hi>Prophet</hi> he teacheth, as a <hi>Priest</hi> he sanctifieth, as a <hi>King</hi> he governeth, as a Prophet he <hi>explaineth,</hi> as a Priest he <hi>obtaineth,</hi> as a King he <hi>applieth</hi> salvation to his people. <hi>Acts.</hi> 3.22. <hi>Heb.</hi> 10.10.14. <hi>Ephes.</hi> 5.25, 26, 27. <hi>Jsai.</hi> 9.6, 7.</p>
+               <p>Quest. <hi>Shew me yet more fully what he doth as a Prophet?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Hee <hi>sheweth</hi> us our misery by sin, and hap<g ref="char:EOLhyphen"/>pinesse by grace. <hi>Ioh.</hi> 1.9.18. <hi>Mat.</hi> 17.5.</p>
+               <p>Quest. <hi>How doth he doe this?</hi>
+               </p>
+               <p>
+                  <hi>Ans. Outwardly,</hi> by the preaching of the Law and Gospel, and <hi>inwardly,</hi> by enlightning the un<g ref="char:EOLhyphen"/>derstanding. <hi>Mat.</hi> 4.17. <hi>Isai.</hi> 61.1. <hi>Ephe.</hi> 4.11. <hi>Ioh.</hi> 5.25. 1 <hi>Ioh.</hi> 2.27.</p>
+               <p>Quest. <hi>What doth he as a Priest?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Hee <hi>redeemeth</hi> us from evill, and purcha<g ref="char:EOLhyphen"/>seth for us Gods grace and favour. <hi>Heb.</hi> 2.17. <hi>Psa.</hi> 110.4. 1 <hi>Pet.</hi> 2.24.</p>
+               <p>Quest. <hi>How doth he do this?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> 1 By keeping the Law, <hi>Rom</hi> 8.34.</p>
+               <p n="2">2 By <hi>offering</hi> himself a Sacrifice to God. <hi>Ephe.</hi> 5 2.</p>
+               <p n="3">3 By <hi>making</hi> intercession for us. <hi>Heb.</hi> 7 25, 26, 27. <hi>Ioh.</hi> 17 9.</p>
+               <p>Quest. <hi>How doth he make intercession for us?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> By <hi>presenting</hi> himself to God the Father,
+<pb facs="tcp:107564:15"/>as our Mediator and Redeemer. <hi>Heb.</hi> 9.24 1 <hi>Jo.</hi> 2.1.</p>
+               <p n="2">2 By <hi>promising</hi> obedience, and thankfulnesse on our behalfe <hi>Ioh.</hi> 17.6 25.26</p>
+               <p n="3">3 By <hi>praying</hi> for us. <hi>Ioh.</hi> 17.9.</p>
+               <p>Quest. <hi>What doth he doe as a King?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> He doth <hi>rule</hi> and defend his kingdome, and redeemed people from all evill, and doth <hi>continue</hi> them in the grace and favour of God, for ever. <hi>Psa</hi> 2.6.8, 9. <hi>Luke</hi> 1.32. <hi>Joh.</hi> 10.28. <hi>Matt.</hi> 2.8.20. <hi>Heb.</hi> 12.28.</p>
+               <p>Quest. <hi>How doth he doe this?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> 1 By <hi>getting</hi> victory over his and our ene<g ref="char:EOLhyphen"/>mies. 1 <hi>Cor.</hi> 15.54, 55. <hi>Col.</hi> 2.15. <hi>Heb.</hi> 2.14. <hi>Hos.</hi> 13.14.</p>
+               <p n="2">2 By <hi>calling</hi> and gathering together the peo<g ref="char:EOLhyphen"/>ple of his kingdome, and taking possession in their hearts. <hi>Ioh.</hi> 17.11.12. <hi>Io.</hi> 10.16. <hi>Ephes.</hi> 4.11. <hi>Ephes.</hi> 3.17.</p>
+               <p n="3">3 By <hi>prescribing</hi> to them lawes of obeying, and beleeving. <hi>Matt.</hi> 17.5. <hi>Acts</hi> 17.31. <hi>Isai.</hi> 11.2, 3, 4.</p>
+               <p n="4">4 By <hi>moving</hi> their hearts inwardly thorough the feeling of Gods present favour, and hope of future glory, to beleeve and obey. <hi>Rom.</hi> 8.14. <hi>Mat.</hi> 3.11. 2 <hi>Cor.</hi> 7.4, 5. 2 <hi>cor.</hi> 5.20.</p>
+               <p n="5">5 By <hi>bestowing</hi> on them all things needfull to salvation. <hi>Psal.</hi> 45.13, 14. <hi>Ephe.</hi> 4.11, 12.</p>
+               <p n="6">6 By <hi>restraining,</hi> and punishing the enemies which rise against them. 1 <hi>cor,</hi> 15.24, 25.</p>
+               <p>Quest. <hi>You said but even now, that Christs suffe<g ref="char:EOLhyphen"/>rings, in regard of his Godhead, were of an infinite
+<pb facs="tcp:107564:15"/>value, did he therefore in the intention of God his Fa<g ref="char:EOLhyphen"/>ther, die for, and redeeme all men, as the Papists and their Adherents teach?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Hee redeemed men of all <hi>nations,</hi> and of all conditions, but not all particular <hi>persons. Rev.</hi> 5.9. <hi>Rom.</hi> 8.33, 34. <hi>Ioh.</hi> 17.19, 20. <hi>Joh.</hi> 10.15. <hi>Ephes.</hi> 5.23.</p>
+               <p>Quest. <hi>How doe you further make the truth here<g ref="char:EOLhyphen"/>of apparant?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> By divers things:</p>
+               <p n="1">1 The Father did not <hi>choose</hi> all, therefore neither did the Son die for, and <hi>redeem</hi> all: for the worke of the Son in Redemption doth not exceed the work of the Father in Election, because he worketh from the Father. <hi>Ioh.</hi> 17.2.4. <hi>Ioh.</hi> 15.15. <hi>Ioh.</hi> 12.49, 50.</p>
+               <p n="2">2 The Spirit doth not <hi>sanctifie</hi> all, therefore neither did the Son <hi>redeem</hi> all: for the work of the Spirit in Sanctification, commeth not short of the work of the Father in Election, nor of the Son in Redemption; because hee worketh from the Fa<g ref="char:EOLhyphen"/>ther and the Son, taking possession of what the Fa<g ref="char:EOLhyphen"/>ther did choose, and the Son purchase, sanctifying whom the Son did redeeme. <hi>Io.</hi> 14.26. <hi>Io.</hi> 15.26. <hi>Io.</hi> 16.7.13, 14, 15. 1 <hi>Pet.</hi> 1.2.</p>
+               <p n="3">3 The <hi>love</hi> of God and Christ, which was the moving cause of his death, doth not <hi>extend</hi> to all, neither was his death intended for all. <hi>Ioh.</hi> 3.16. <hi>Ioh.</hi> 13.1. <hi>Rom.</hi> 9.13.</p>
+               <p n="4">4 Christ did not <hi>rise</hi> againe for all, therefore neither did he <hi>die</hi> for all. <hi>Rom.</hi> 4.25. 1 <hi>Cor.</hi> 15.20.</p>
+               <pb facs="tcp:107564:16"/>
+               <p n="5">5 Christ doth not <hi>pray</hi> for all; therefore neither did he die for, and <hi>redeem</hi> all. <hi>Ioh.</hi> 17.9.</p>
+               <p n="6">6 The death, resurrection, and intercession of Christ are <hi>inseparable,</hi> make him a <hi>compleat</hi> Redeemer, and are <hi>peculiar</hi> to Gods chosen peo<g ref="char:EOLhyphen"/>ple. <hi>Rom.</hi> 8.33, 34.</p>
+               <p n="7">7 Christ doth not inwardly <hi>instruct</hi> all, as a Pro<g ref="char:EOLhyphen"/>phet. <hi>Matt.</hi> 13.13. nor spiritually <hi>rule</hi> in the hearts of all, as a King. <hi>Rom.</hi> 16.16. therefore neither did he <hi>die</hi> for all, as a Priest, for the offices of Christ are of equall extent.</p>
+               <p n="8">8 For whom Christ <hi>died,</hi> to them are <hi>given</hi> the Spirit, Faith, Hope, Love, and every other saving grace. <hi>Rom.</hi> 8 31, 32. but this all men have not. 2 <hi>Thes.</hi> 3.2.</p>
+               <p n="9">9 Had Christ laid downe his life a ransome for all men, then the Justice of God being once <hi>satis<g ref="char:EOLhyphen"/>fied,</hi> a second punishment could not without inju<g ref="char:EOLhyphen"/>stice be <hi>inflicted. Mat.</hi> 20.28. <hi>Isai.</hi> 53.11, 12.</p>
+               <p>Quest. <hi>Wherein standeth this Redemption thus wrought by Christ?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> In three things:</p>
+               <p n="1">I. In <hi>satisfying</hi> Gods Justice by suffering the full punishment of sin. <hi>Mar.</hi> 10.45. <hi>Isai.</hi> 53.5.</p>
+               <p n="2">II. In <hi>fulfilling</hi> Gods Law, by obeying perfe<g ref="char:EOLhyphen"/>ctly. <hi>Mat</hi> 5.17. <hi>Ro.</hi> 10.4.</p>
+               <p n="3">III. In <hi>delivering</hi> us from the power of sinne, and curse due to the same, by applying unto us the benefits of his active and passive obedience. <hi>Rom</hi> 8.2, 3. 2 <hi>Cor.</hi> 15.15.</p>
+               <p>Quest. <hi>Why must this punishment be suffered by Christ?</hi>
+               </p>
+               <pb facs="tcp:107564:16"/>
+               <p>
+                  <hi>Answ.</hi> Because otherwise there is no <hi>escaping</hi> of eternall death. <hi>Heb.</hi> 9.22.</p>
+               <p>Quest. <hi>Why must the law be fulfilled by Christ?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Because otherwise there is no <hi>enjoying</hi> of eternall life. <hi>Rom.</hi> 5.18, 19.</p>
+               <p>Quest. <hi>Why must the benefits of Christs active and passive obedience be applyed?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Because otherwise our sin is not <hi>destroyed,</hi> our imperfections are not <hi>covered,</hi> our persons and actions are not <hi>accepted,</hi> neither is the wrath of God against us <hi>appeased. Phil.</hi> 3.8, 9, 10. <hi>Rom.</hi> 8.8, 9. <hi>Rom.</hi> 7.5. <hi>Rom.</hi> 6.22.23.</p>
+               <p>Quest. <hi>How is the Mysterie of our Redemption made knowne unto us?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> By the preaching of the Gospel, <hi>Lu.</hi> 24, 25, 26. <hi>Acts</hi> 10.43.</p>
+               <p>Quest. <hi>How is this Redemption received, and im<g ref="char:EOLhyphen"/>braced by us.</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Only by faith. <hi>Ioh.</hi> 3.16.</p>
+               <p>Quest. <hi>For what end did Christ redeeme us?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> To serve God alwaies in true holinesse. <hi>Luk.</hi> 1.74, 75. <hi>Tit.</hi> 2.14.</p>
+               <p>Quest. <hi>What benefits of our Redemption must we see in our selves.</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> These seven:</p>
+               <p n="1">I. <hi>Freedome</hi> from the bondage of Satan. <hi>Hebr.</hi> 2.14. 1 <hi>Ioh.</hi> 3.8, 9.</p>
+               <p n="2">II. A <hi>death</hi> of Sin. <hi>Rom.</hi> 6.5, 6.</p>
+               <p n="3">III. <hi>Newnesse</hi> of life. 1 <hi>Cor.</hi> 5.7, 8. <hi>Reve.</hi> 5.9, 10.</p>
+               <p n="4">IIII. <hi>Reconciliation</hi> with God. <hi>Rom.</hi> 5.1. <hi>Col.</hi> 1.20. <hi>Ephes.</hi> 2.13.</p>
+               <pb facs="tcp:107564:17"/>
+               <p n="5">V. An holy <hi>agreement</hi> between our hearts, and Gods Commandements. 1. <hi>Ioh.</hi> 5.3.</p>
+               <p n="6">VI. An heavenly <hi>peace</hi> in our Consciences. 1 <hi>Io.</hi> 3.21. <hi>Rom.</hi> 5.5.</p>
+               <p n="7">VII. An holy <hi>triumph</hi> over the feare of death. 1 <hi>Cor.</hi> 15.57.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IIII.</head>
+               <head type="sub">Question.</head>
+               <p>
+                  <hi>VVHat is the third step by which God doth proceed in the work of mans salvation?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Vocation.</p>
+               <p>Quest. <hi>What is vocation?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> It is a holy and gracious worke of God, by his Word and Spirit calling men sinfull and sub<g ref="char:EOLhyphen"/>ject to damnation out of their naturall, and corrupt estate, to beleeve in Christ, and to lead a new life. <hi>Acts.</hi> 26.18.</p>
+               <p>Quest. <hi>What are the parts of vocation?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> They are two. 1. The offering. 2. The re<g ref="char:EOLhyphen"/>ceiving of Christ. <hi>Ioh</hi> 1.11.12.</p>
+               <p>Quest. <hi>What is the offering of Christ to us in our vocation?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> The proposing of Christ as the only neces<g ref="char:EOLhyphen"/>sary and sufficient means of salvation. 1 <hi>Cor.</hi> 1.23.24. <hi>Heb.</hi> 7.25. <hi>Acts</hi> 4.12.</p>
+               <p>Quest. <hi>What is the receiving of Christ?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> The joyning of Christ unto man, and of man unto Christ. <hi>Ioh.</hi> 6.56. <hi>Ephes.</hi> 5.23.</p>
+               <p>Quest. <hi>How doth God call men to this new estate?</hi>
+               </p>
+               <pb facs="tcp:107564:17"/>
+               <p>
+                  <hi>Ans.</hi> By the Ministery of the <hi>word</hi> as the out<g ref="char:EOLhyphen"/>ward, by the working of the <hi>Spirit</hi> as the inward means. <hi>Acts</hi> 10.44. <hi>Acts</hi> 16.14. <hi>Acts</hi> 9.15. <hi>Ephes.</hi> 1, 17. 1 <hi>Cor.</hi> 3.6.</p>
+               <p>Quest. <hi>From what doth God call them?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> From the bondage of Satan, and service of all sin. <hi>col.</hi> 1.12, 13. <hi>Tit.</hi> 3.3, 4. <hi>Mat.</hi> 9.13.</p>
+               <p>Quest. <hi>Whereunto doth he call them?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Unto true holinesse. 1 <hi>Thes.</hi> 4.7.</p>
+               <p>Quest. <hi>Why doth he thus call them?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> I. That they may have <hi>union,</hi> and com<g ref="char:EOLhyphen"/>munion with Christ Jesus. 1 <hi>Cor.</hi> 1.9.</p>
+               <p n="2">II. That they may <hi>love,</hi> feare, and honour God in Christ. <hi>Iere.</hi> 32.39, 40.</p>
+               <p n="3">III. That they may <hi>make sure</hi> their election un<g ref="char:EOLhyphen"/>to themselves. 2 <hi>Pet.</hi> 1.10.</p>
+               <p n="4">IIII. That they may be <hi>fit</hi> to inherit eternall glory. 2 <hi>Pet.</hi> 1.3. <hi>Rev.</hi> 21.27.</p>
+               <p>Quest. <hi>Who are they that be thus called?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> By the outward Ministery of the Word <hi>good and bad</hi> are called. <hi>Mat.</hi> 20.16. <hi>Mat.</hi> 13.47, 48. but by the inward working of the Spirit the <hi>cho<g ref="char:EOLhyphen"/>sen</hi> onely are called. <hi>Rom.</hi> 8.30. <hi>Acts</hi> 13.48.</p>
+               <p>Quest. <hi>What are the properties of vocation?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> They are five:</p>
+               <p n="1">I. It is <hi>free. Ioh.</hi> 3.8. <hi>Rom.</hi> 8.28 <hi>Isai.</hi> 44.6, 7.</p>
+               <p n="2">II. It is <hi>holy.</hi> 2 <hi>Tim.</hi> 1.9.</p>
+               <p n="3">III. It is <hi>irresistible. Ioh.</hi> 6.37. <hi>Joh.</hi> 10.16. <hi>Isa.</hi> 55.10.11, 12, 13. <hi>Ezek.</hi> 36.25, 26.</p>
+               <p n="4">IIII. It is <hi>peculiar</hi> to the chosen, <hi>Acts.</hi> 13.48.</p>
+               <p n="5">V. It is <hi>unchangeable. Rom.</hi> 11.29. <hi>Ierem.</hi> 32.40.</p>
+               <pb facs="tcp:107564:18"/>
+               <p>Quest. <hi>How may a man know that he is effectual<g ref="char:EOLhyphen"/>ly called?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> By nine signes accompanying it.</p>
+               <p>Quest. <hi>What be they?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> I. True <hi>illumination,</hi> whereby a man is a<g ref="char:EOLhyphen"/>ble to see his owne wretchednesse by sin; and also to behold the riches of Gods mercy in Christ to<g ref="char:EOLhyphen"/>wards his owne soul, 1 <hi>Pet.</hi> 2.9.</p>
+               <p n="2">II. A thorough <hi>detestation</hi> of that sin which hath formerly been most pleasing to him. <hi>Hos.</hi> 14.8. <hi>Isa.</hi> 30.21, 22. <hi>Luk.</hi> 19.8, 9.</p>
+               <p n="3">III. A <hi>loathing</hi> of evill, and delighting in holy company. 2. <hi>Cor.</hi> 6.17, 18. <hi>Psal.</hi> 119.115. <hi>Psal.</hi> 26.4, 5. <hi>Psal.</hi> 16.3.</p>
+               <p n="4">IIII. A competent measure of <hi>grace</hi> befitting that calling, with a holy care to walke as beseem<g ref="char:EOLhyphen"/>eth the same. <hi>Ephes.</hi> 4.1. 1 <hi>Thess.</hi> 2.12.</p>
+               <p n="5">V. A singular <hi>readinesse</hi> to performe all the Lords Commandements. <hi>Gal.</hi> 1.15, 16. <hi>Cant.</hi> 1.4. <hi>Psal.</hi> 119.32.</p>
+               <p n="6">VI. A carefull <hi>endeavour</hi> to have peace with all men, so much as may be; but especially with Gods people. <hi>Rom.</hi> 12.18. <hi>Col.</hi> 3.15. 1 <hi>Cor.</hi> 7.15. 1 <hi>Pet.</hi> 3.8, 9.</p>
+               <p n="7">VII. A hearty <hi>cleaving</hi> unto God, and making a good profession of Gods Truth, in all estates. 1 <hi>Tim,</hi> 6.11. <hi>Luk.</hi> 9.23.26.</p>
+               <p n="8">VIII. A high <hi>estimation</hi> of this calling, and of the means by which a man is called. <hi>Phil.</hi> 3.14. <hi>Ps.</hi> 119.72.</p>
+               <p n="9">IX. A comfortable <hi>experience</hi> of Gods disposing and ordering all things to work for the best unto
+<pb facs="tcp:107564:18"/>him. <hi>Rom.</hi> 8.28. <hi>Gen.</hi> 41.52. <hi>Gen.</hi> 50.20.</p>
+               <p>Quest. <hi>What fruits doth this doctrine of mans Mise<g ref="char:EOLhyphen"/>ry, Redemption, and Vocation bring forth in them whom God hath ordained to life eternall?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> It doth worke 10. severall graces in them.</p>
+               <p>Quest. <hi>What is the first?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> A cleere <hi>sight</hi> of our wofull and lothsome estate by nature. <hi>Prov.</hi> 30.1.2. <hi>Iere.</hi> 31.18. <hi>Rom.</hi> 7.9</p>
+               <p>Quest. <hi>What is the second?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> A true <hi>sense</hi> of our misery by sin. <hi>Psal.</hi> 38.4. <hi>Rom.</hi> 7.24.</p>
+               <p>Quest. <hi>What is the third?</hi>
+               </p>
+               <p>
+                  <hi>Ans. Contrition,</hi> and brokennesse of heart. 2 <hi>Cor.</hi> 7.10. <hi>Psal.</hi> 51.17. <hi>Luke</hi> 7.38.</p>
+               <p>Quest. <hi>What is the fourth?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> A thorough <hi>detestation</hi> of sin. <hi>Psal.</hi> 119.128. <hi>Hos.</hi> 14.8.</p>
+               <p>Quest. <hi>What is the fift?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> An earnest <hi>desire</hi> of the pardon of sinne, <hi>Ps.</hi> 51.9.</p>
+               <p>Quest. <hi>What is the sixth?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> A holy <hi>consultation</hi> what to doe to get forth of this sinfull estate. <hi>Acts</hi> 16 29, 30.</p>
+               <p>Quest. <hi>What is the seventh?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> A humble and free <hi>confession</hi> of all sinne. <hi>Psal.</hi> 32 5. <hi>Psal.</hi> 139.23. <hi>Luke</hi> 15.18, 19. <hi>Psal.</hi> 51 3.</p>
+               <p>Quest <hi>What is the eight?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> An unfained <hi>forsaking</hi> of all sinne, to enjoy the graces of the Spirit, and favour of God. <hi>Matt.</hi> 13.44. <hi>Isai.</hi> 30.22. <hi>Psal.</hi> 66.18.</p>
+               <p>Quest. <hi>What is the ninth?</hi>
+               </p>
+               <pb facs="tcp:107564:19"/>
+               <p>
+                  <hi>Ans.</hi> A sound <hi>application</hi> of Christ and his promi<g ref="char:EOLhyphen"/>ses to our owne soules, trusting in Christ, and casting our selves wholly upon him for pardon and salvati<g ref="char:EOLhyphen"/>on. <hi>Ioh.</hi> 20.28. <hi>Phil.</hi> 3.12, 13.</p>
+               <p>Quest. <hi>What is the tenth?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> An <hi>high valuing</hi> of Christ, strong and fer<g ref="char:EOLhyphen"/>vent love to Christ, and an holy relishing of more sweetnesse in the Gospel, than in any thing in the world, consecrating our selves to Christ in holinesse and true righteousnesse to serve him. <hi>Luk</hi> 7.47. <hi>Psa.</hi> 4.6, 7. <hi>Ierem.</hi> 15, 16. <hi>Psal.</hi> 119.103. <hi>Rom.</hi> 10.15. <hi>Rom.</hi> 12.1, 2.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V.</head>
+               <head type="sub">Question.</head>
+               <p>
+                  <hi>VVHat is the fourth step by which God proceed<g ref="char:EOLhyphen"/>eth in the worke of mans salvation?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Justification.</p>
+               <p>Quest. <hi>What is Justification?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> It is a gracious action of God, whereby he <hi>imputeth</hi> the righteousnesse of Christ to all true be<g ref="char:EOLhyphen"/>leevers, and for the merit of Christ freely <hi>absolveth</hi> them from all their sinnes, and <hi>reputeth</hi> them just unto life. <hi>Rom.</hi> 3.22.24. 2 <hi>cor.</hi> 5.21. <hi>Psalm.</hi> 32.1.2.</p>
+               <p>Quest. <hi>How manifold is justification?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Twofold. Legall. <hi>Rom.</hi> 2.13 Evangelicall. <hi>Rom.</hi> 5.18.</p>
+               <p>Quest <hi>What is the matter of our justification?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Christs active and passive obedience: to<g ref="char:EOLhyphen"/>gether
+<pb facs="tcp:107564:19"/>with his originall righteousnesse. <hi>Gal.</hi> 3.10. <hi>Rom.</hi> 5.19.</p>
+               <p>Quest. <hi>How is Christs originall Righteousnesse a part of his satisfaction, and of our Justification?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> I. Christs originall <hi>Righteousnesse</hi> answers our originall <hi>sinne.</hi>
+               </p>
+               <p n="2">II. The law requires not only <hi>actuall</hi> obedience, but also <hi>originall,</hi> and full conformity.</p>
+               <p n="3">III. Whole Christ is ours, and whatsoever he was made, whatsoever he did, or was, that he was made, that he did and was for us. <hi>Isa.</hi> 9 6. 1 <hi>Cor.</hi> 1.30.</p>
+               <p>Quest. <hi>Is the active obedience of Christ necessary to our lustification, as well as his passive?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Yes. For,</p>
+               <p n="1">I. As Christs passive obedience was necessary for the <hi>expiation</hi> of our sin, so his active obedience is ne<g ref="char:EOLhyphen"/>cessary for the <hi>obtaining</hi> of life eternall.</p>
+               <p n="2">II. As the law bindeth to <hi>punishment,</hi> threatning death to them that transgresse it. <hi>Deuter.</hi> 27.26. So it bindeth to <hi>obedience,</hi> promising life to them that keep it. <hi>Levit.</hi> 18.5. <hi>Luk.</hi> 10.28.</p>
+               <p n="3">III. As Christs passive obedience answers mans <hi>guilt</hi> of Sin, and damnation: so his active obedience answers mans <hi>want</hi> of Righteousnesse. <hi>Rom.</hi> 3.22.</p>
+               <p>Quest. <hi>What are the parts of Iustification?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Two:</p>
+               <p n="1">I. The <hi>Imputation</hi> of Christs Righteousnesse, whereby the Beleever hath his sin covered, and is accepted as just in the sight of God. <hi>Philip.</hi> 3.8, 9, 10.</p>
+               <p n="2">II. <hi>Remission</hi> of sin, whereby the Beleever is
+<pb facs="tcp:107564:20"/>freed from the guilt, and punishment of sin. <hi>Col.</hi> 1.21.22. 1 <hi>Pet.</hi> 2.24.</p>
+               <p>Quest. <hi>What is the moving cause of mans Iustifi<g ref="char:EOLhyphen"/>cation?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> The <hi>inward</hi> moving cause is Gods <hi>mercy, Rom.</hi> 3.24. the <hi>outward</hi> moving cause is the <hi>merit</hi> and efficacie of Christs active and passive obedience. 1 <hi>Ioh.</hi> 1.7. 2 <hi>Cor.</hi> 5.18, 19.</p>
+               <p>Quest. <hi>What is the formall cause?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> The <hi>Imputation</hi> of Christs Righteousnesse. 2 <hi>Cor.</hi> 5.2. 1 <hi>Cor.</hi> 1.30. <hi>Iere.</hi> 23.5.</p>
+               <p>Quest. <hi>What is the instrumentall cause of our Iu<g ref="char:EOLhyphen"/>stification?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> A lively faith, laying hold on the Righte<g ref="char:EOLhyphen"/>ousnesse of Christ. <hi>Rom.</hi> 3.28.</p>
+               <p>Quest. <hi>Doth faith alone justifie us?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Faith is alone in the <hi>act</hi> of justifying; but not alone in the <hi>heart</hi> and life of the justified person. <hi>Rom.</hi> 3.28. <hi>Iam.</hi> 2.17. <hi>Ephes.</hi> 2.8, 9, 10. <hi>Gal.</hi> 5.6.</p>
+               <p>Quest. <hi>What is Faith?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> It is a holy and stedfast resting of the heart upon God in Christ, as the only and alsufficient Au<g ref="char:EOLhyphen"/>thor of salvation, and life eternall, <hi>Isai.</hi> 10.20. <hi>Psal.</hi> 37.3, 4, 5. <hi>Rom.</hi> 10.11. 2 <hi>Cor.</hi> 3 4. 2 <hi>cor.</hi> 5.6, 7, 8. <hi>Deut.</hi> 30.20.</p>
+               <p>Quest. <hi>What is the nature of Faith in generall?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> To cleave unto the Lord, and to cast our selves, and our burthen upon him in all estates. <hi>Ios.</hi> 23.8. <hi>Acts</hi> 11.23. 1 <hi>Cor.</hi> 6.17. <hi>Psal.</hi> 55.22. <hi>Psal.</hi> 62.8. 1 <hi>Pet.</hi> 5.7.</p>
+               <p>Quest. <hi>What doth the nature of Faith more parti<g ref="char:EOLhyphen"/>cularly comprehend under it?</hi>
+               </p>
+               <pb facs="tcp:107564:20"/>
+               <p>
+                  <hi>Ans.</hi> I. <hi>Knowledge</hi> of that which God hath pro<g ref="char:EOLhyphen"/>posed to be beleeved. 1 <hi>Ioh.</hi> 4.16. <hi>Io.</hi> 10.38. <hi>Jo.</hi> 17.3.</p>
+               <p n="2">II. <hi>Assent</hi> to the profer of grace. <hi>Io.</hi> 3.33.</p>
+               <p n="3">III. A pious <hi>affection</hi> towards God, whence a<g ref="char:EOLhyphen"/>riseth a high estimation of the promise of life, and a base account of all things in comparison of the love of God in Christ. <hi>Deut.</hi> 4.4. <hi>Deut.</hi> 11.22. <hi>Cant.</hi> 1.2. <hi>Psal.</hi> 63.3.</p>
+               <p n="4">IIII. An earnest <hi>desire</hi> after the happinesse reven<g ref="char:EOLhyphen"/>led in the Gospel. <hi>Isai.</hi> 55.1. <hi>Gal.</hi> 5.5. <hi>Luke</hi> 2.25.</p>
+               <p n="5">V. A <hi>resting</hi> upon God in Christ, for the obtaining of that good which he hath proposed to us in his Word. <hi>Iere.</hi> 17.7. <hi>Ioh.</hi> 6.68.</p>
+               <p n="6">VI. An <hi>election,</hi> chosing, and apprehending of the promise of life in Christ, so making it our owne. <hi>Io.</hi> 1.12.</p>
+               <p>Quest. <hi>Wherein standeth the essence and perfection of faith?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> In our election, apprehending, and singling out of Christ unto our selves, as the only sufficient and fit means to bring us to life. <hi>Cant.</hi> 2.16. <hi>Ioh.</hi> 20.28. <hi>Psal.</hi> 119.30.31.</p>
+               <p>Quest. <hi>Whereupon is faith builded?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Upon the sacred Scriptures alone, whose Authour is God. 2 <hi>Pet.</hi> 1.19, 20. <hi>Rom.</hi> 3, 4. 1 <hi>Cor.</hi> 2.5.</p>
+               <p>Quest. <hi>Whence is it that the act of beleeving spring<g ref="char:EOLhyphen"/>eth?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> From the internall operation, and perswa<g ref="char:EOLhyphen"/>sion of the holy Spirit, as the proper cause of it. 1 <hi>Cor.</hi> 12.3.11.</p>
+               <pb facs="tcp:107564:21"/>
+               <p>Quest. <hi>What is the outward and ordinary means by which Faith is wrought?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> By the faithfull preaching of Gods Word. <hi>Rom.</hi> 10.14, 15.17. <hi>Ephes.</hi> 1.13. 1 <hi>cor.</hi> 1.21. <hi>Iere.</hi> 3.15 <hi>Acts</hi> 13.42 40. <hi>Jsa.</hi> 57 19.</p>
+               <p>Quest. <hi>What is the object of Faith?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Christ as Redeemer is the <hi>mediate</hi> object of Faith, and God is the <hi>ultimate,</hi> for we beleeve in God, through Christ. <hi>Rom.</hi> 6.11. 2 <hi>cor.</hi> 3, 4. 1 <hi>Pet.</hi> 1.21.</p>
+               <p>Quest <hi>Whereunto doth Faith carry the heart of the Beleever to seek true comfort?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> To the <hi>merit</hi> of Christ, and to the <hi>promises,</hi> and <hi>providence</hi> of God. <hi>Ioh.</hi> 14.1, 2. 2 <hi>Timo.</hi> 1.12. <hi>Rom</hi> 4.21. <hi>Heb.</hi> 11.13.</p>
+               <p>Quest. <hi>What is the Subject or Seate of Faith?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> The heart and will of the Regenerate. <hi>Ro.</hi> 10.10.</p>
+               <p>Quest. <hi>Whence doth it appeare that the will rather than the understanding is the seate of Faith?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> I. Because Faith is an act of election, chosing and imbracing Christ, and making him ours, which is more than an act of the understanding. <hi>Jo.</hi> 1.12. <hi>Ioh.</hi> 6.35.</p>
+               <p n="2">II. Because, though Faith doth alwayes presup<g ref="char:EOLhyphen"/>pose the knowledge of the Gospel, yet there is no saving knowledge distinct from that which is in many Reprobates, unlesse it be both consequent un<g ref="char:EOLhyphen"/>to, and also dependent upon the act of the will. <hi>Io.</hi> 7.17. <hi>Io.</hi> 8.31, 32. 1 <hi>Io.</hi> 2.3.</p>
+               <p n="3">III. Because Faith uniteth us to Christ, causeth us to give and apply our selves unto God in Christ, which is not an act of the understanding, but a con<g ref="char:EOLhyphen"/>sent
+<pb facs="tcp:107564:21"/>and work of the will. 2 <hi>cor.</hi> 5.14, 15.</p>
+               <p n="4">IIII. Because knowledge of it self, is common to Beleevers, with unbeleevers and devills. <hi>Iam.</hi> 2.19, 20.</p>
+               <p>Quest. <hi>In what order, or by what degrees doth God prepare them to beleeve, whom he hath ordained unto life?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> I. By the Law.</p>
+               <p n="2">II. By the Gospel.</p>
+               <p>Quest. <hi>How by the Law?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> I. By <hi>inlightning</hi> the sinner to see his mi<g ref="char:EOLhyphen"/>serable estate by sinne, with the punishment due to the same. <hi>Rom.</hi> 7.7.9. <hi>Rom.</hi> 3.20.</p>
+               <p n="2">II. By <hi>convincing</hi> the sinner, that he is the guilty person, to whom the Messenger of the Lord speak<g ref="char:EOLhyphen"/>eth. 1 <hi>cor.</hi> 14.24.25. 2 <hi>Sam.</hi> 12.7.</p>
+               <p n="3">III. By <hi>raising</hi> the Sinner out of his Security, filling his soule with terrour, making him see the fulfilling of the Law to be impossible, making him feele the bearing of the punishment to be intolera<g ref="char:EOLhyphen"/>ble, and the committing of the sin uncomfortable. <hi>Gen.</hi> 4.7.13. <hi>Acts</hi> 16.29.</p>
+               <p>Quest. <hi>Are all such as be thus wrought upon by the Law, afterward brought to beleeve?</hi>
+               </p>
+               <p>
+                  <hi>Answer</hi> No.</p>
+               <p>Many Reprobates, and Hypocrites are thus con<g ref="char:EOLhyphen"/>vinced, and terrified, and so left. <hi>Matt.</hi> 27.3, 4, 5. <hi>Gen.</hi> 4.13.16, 17. <hi>Acts</hi> 24.25. 2 <hi>cor.</hi> 3.6.</p>
+               <p>And yet ordinarily all such as are appointed unto life, are thus in some degree wrought upon by the law in the beginning, and so led forward unto faith by the Gospel. <hi>Acts</hi> 2.37. <hi>Jere.</hi> 31.18.</p>
+               <p>Quest. <hi>After men are thus prepared by the law, how
+<pb facs="tcp:107564:22"/>doth God lead them forward by the Gospel?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> He doth by the Gospel <hi>proclaime</hi> a reme<g ref="char:EOLhyphen"/>dy for the easing of the soule of the sinner so distres<g ref="char:EOLhyphen"/>sed, and appeasing of the Conscience so disquieted. <hi>Jo.</hi> 3.16. <hi>Mat.</hi> 11.28. <hi>Isa.</hi> 61.1.2.</p>
+               <p n="2">II. By the Gospel, the Sinner thus afflicted is <hi>per<g ref="char:EOLhyphen"/>swaded</hi> in the generall, that God is mercifull, and that there is a remedy in Christ for sinners: and by this generall perswasion is supported against de<g ref="char:EOLhyphen"/>spaire, though he cannot make any particular appli<g ref="char:EOLhyphen"/>cation hereof unto himselfe, for the present. <hi>Isa.</hi> 55.6, 7. 2 <hi>Sam.</hi> 24.14. <hi>Psal.</hi> 130.7, 8. <hi>Dan.</hi> 9.9. <hi>Eze.</hi> 10.2, 3. <hi>Lam.</hi> 3.22.23.</p>
+               <p n="3">III. Hereupon; the thoughts of his owne mise<g ref="char:EOLhyphen"/>ry, the sweet voice of the Gospel, and the considera<g ref="char:EOLhyphen"/>tion of Gods loving kindnesse in Christ working up<g ref="char:EOLhyphen"/>on him, his heart becommeth <hi>soft,</hi> humble, teach<g ref="char:EOLhyphen"/>able, contrite and broken for sinne, and for disho<g ref="char:EOLhyphen"/>nouring God, so loving, and long suffering. <hi>Rom.</hi> 2.4. <hi>Zech.</hi> 12.10.</p>
+               <p>Quest. <hi>But how may a man know that his Contri<g ref="char:EOLhyphen"/>rion is not Legall, but Evangelicall?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Legall terror is chiefly for <hi>feare of punish<g ref="char:EOLhyphen"/>ment,</hi> leaving the soule still hardened, but Evangeli<g ref="char:EOLhyphen"/>call contrition is chiefly for <hi>sin,</hi> making the heart truely soft, and causing sinne to be earnestly, deeply, and constantly bewailed. <hi>Psal.</hi> 38.3.4. <hi>Psal.</hi> 31.10. <hi>Matt.</hi> 26.75. <hi>Zech.</hi> 12.10. 2 <hi>cor.</hi> 12.7.</p>
+               <p>Quest. <hi>When the Gospel, like fire, hath melted the stoney heart of the sinner, how doth it worke further?</hi>
+               </p>
+               <p>
+                  <hi>Answ</hi> It doth beget in him further:</p>
+               <p n="1">I. An utter <hi>dislike,</hi> shame, and detestation of all
+<pb facs="tcp:107564:22"/>his former courses. <hi>Jsa.</hi> 30.22. <hi>Jere.</hi> 31.19. <hi>Ezek.</hi> 37.31.</p>
+               <p n="2">II. And unfained and full <hi>confession</hi> and aggravati<g ref="char:EOLhyphen"/>on of his sin. 1 <hi>Sam.</hi> 12, 13. 1 <hi>Tim.</hi> 1.15. <hi>Lam.</hi> 3.40.</p>
+               <p n="3">III. It doth <hi>empty</hi> him of all conceit of his owne goodnesse, causing him utterly to denie himselfe. 1 <hi>cor.</hi> 3.18. <hi>Rom.</hi> 7.18.</p>
+               <p n="4">IIII. It causeth him to <hi>waite</hi> on God for dire<g ref="char:EOLhyphen"/>ction to guide him, and to lead him forth of this per<g ref="char:EOLhyphen"/>plexed estate, crying earnestly to God for consolati<g ref="char:EOLhyphen"/>on. <hi>Psal.</hi> 51.8, 9, 10, 11, 12. <hi>Psal.</hi> 143.8, 9, 10.</p>
+               <p n="5">V. Having <hi>felt</hi> his owne wants, <hi>despairing</hi> of help in himself, and having <hi>seen</hi> Gods offer, and the excellency of Mercy in Christ; he doth above all things, most strongly <hi>desire</hi> the pardon of sin, and faith to beleeve the Promise of Gods mercy in Christ to his owne soule. <hi>Luk.</hi> 18.13. <hi>Psal.</hi> 143.1.2.6. <hi>Isai.</hi> 26.8, 9.</p>
+               <p n="6">VI. He is solicitously <hi>carefull</hi> in the use of the means to attaine Faith, 2 <hi>Pet.</hi> 1.10. <hi>findeth no rest,</hi> till he getteth some assurance, <hi>Psal.</hi> 38.3. <hi>Psal.</hi> 116.3, 4. <hi>hungereth,</hi> and thirsteth vehemently after it. <hi>Matt.</hi> 5.6. <hi>Psal.</hi> 63.1. <hi>casteth away</hi> whatsoever may hinder it. <hi>Matth.</hi> 13.44, 45. <hi>waiteth</hi> on the Lord with patience, <hi>Isa.</hi> 28, 16. beginneth at length to be <hi>perswaded</hi> in his heart that he shall have it. <hi>Ps.</hi> 103.8. <hi>Hebr.</hi> 10.37. <hi>Mar.</hi> 9.24. and so at length, God doth <hi>seale up</hi> unto his soule, the pardon of his sinne, and doth inable him to <hi>beleeve</hi> the same. <hi>Ephes.</hi> 1.13, 14. <hi>Psal.</hi> 116.6, 7.8.</p>
+               <p>Quest. <hi>How farre may a Reprobate goe in this way?</hi>
+               </p>
+               <pb facs="tcp:107564:23"/>
+               <p>
+                  <hi>Ans.</hi> He may goe fourteene steps.</p>
+               <p>Quest. <hi>Which be they?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> I. He may <hi>know,</hi> and acknowledge the truth. 2. <hi>Pet.</hi> 2.21 <hi>Lu.</hi> 12.47. 1 <hi>cor.</hi> 13.2.</p>
+               <p n="2">II. He may be <hi>troubled</hi> in conscience by hearing the Word. <hi>Acts</hi> 24.25.</p>
+               <p n="3">III. He may be <hi>perplexed</hi> in minde about sin, be<g ref="char:EOLhyphen"/>fore he doth commit it. <hi>Mar.</hi> 6.26.</p>
+               <p n="4">IIII. He may be full of <hi>sorrow</hi> after the commis<g ref="char:EOLhyphen"/>sion of sinne. <hi>Matt.</hi> 27.3, 4.</p>
+               <p n="5">V. He may <hi>confesse</hi> his sin in time of vexation, <hi>Exod.</hi> 9.27.</p>
+               <p n="6">VI. He may <hi>pray,</hi> and desire others to pray for him in the day of affliction. <hi>Acts.</hi> 8.24. 1 <hi>Kings</hi> 21.27.</p>
+               <p n="7">VII. He may be at great <hi>costs</hi> in and about Gods service. <hi>Gen</hi> 4.3. <hi>Isa.</hi> 1.11, 12, 13. <hi>Mica.</hi> 6, 6.7.</p>
+               <p n="8">VIII. He may make an open and glorious <hi>pro<g ref="char:EOLhyphen"/>fession</hi> of the waies of godlinesse. <hi>Isa.</hi> 58.2. <hi>Io</hi> 6.26. <hi>Ezek.</hi> 33.31, 32. <hi>Mat</hi> 25.1 2. 3.</p>
+               <p n="9">IX. He may take <hi>joy</hi> and taste sweetnesse in some part of Gods Word. <hi>Mar</hi> 6.20. <hi>Matt.</hi> 13 20, 21. <hi>Hebr.</hi> 6.5.</p>
+               <p n="10">X. He may <hi>amend</hi> his life in many things, and be zealous, and so farre escape all the pollutions of the world, that none can justly taxe him with any open evill. 2 <hi>Pet.</hi> 2.20. <hi>Mar.</hi> 6.20. 2 <hi>Kings</hi> 20.28, 29.</p>
+               <p n="11">XI. He may <hi>wonder</hi> at, and be strangely affected with the glorious things revealed in Gods ordinan<g ref="char:EOLhyphen"/>ces. <hi>Luk.</hi> 4.22.23.</p>
+               <p n="12">XII. He may <hi>approve,</hi> and commend the best Preachers, and frequent the best company, and desire
+<pb facs="tcp:107564:23"/>their gifts and graces. <hi>Ezek.</hi> 33.31, 32. <hi>Matt.</hi> 25, 1.8.</p>
+               <p n="13">XIII. He may <hi>delight</hi> in frequenting Gods house, he may hold out with Christ in great trouble, and upon some inward, yet common work, per<g ref="char:EOLhyphen"/>swade himselfe of being in Gods favour. <hi>Isa.</hi> 58.2, 3. <hi>Mat.</hi> 13.22. <hi>Prov.</hi> 14.12. <hi>Isa.</hi> 1.26.</p>
+               <p n="14">XIIII. He may <hi>give</hi> liberally to the needy, and <hi>suffer</hi> even death in the cause of Christ. 1 <hi>Cor.</hi> 13.3.</p>
+               <p>Quest. <hi>Is it not a great discouragement to Gods children, that hypocrites goe so farre in the way to hea<g ref="char:EOLhyphen"/>ven, and that Gods children are so hardly distinguished from them?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> No: but they must labour so much the more earnestly to goe beyond them, and to make their Calling &amp; Election sure. <hi>Mat.</hi> 5, 20. 2 <hi>Pet.</hi> 1.10.</p>
+               <p>Quest. <hi>Wherein doth a child of God goe beyond an Hypocrite?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> In Twelve things:</p>
+               <p n="1">I. In hating sinne <hi>universally,</hi> and throughly. <hi>Psal.</hi> 119.104. <hi>Psal.</hi> 66.18.</p>
+               <p n="2">II. In resting upon God <hi>firmly,</hi> and constantly. <hi>Rom.</hi> 8.38. <hi>Psalm.</hi> 62.8. <hi>Col.</hi> 2.7.</p>
+               <p n="3">III. In loving God <hi>unfainedly,</hi> for the purity and lovelinesse of Gods nature. <hi>Deut.</hi> 6.5. <hi>Cant.</hi> 2.5. <hi>Matt.</hi> 10.37.</p>
+               <p n="4">IIII. In meditating upon, and rejoycing in the <hi>whole Word</hi> of God. <hi>Psal.</hi> 119.14, 15, 16.143. <hi>Ierem.</hi> 15.16.</p>
+               <p n="5">V. In obeying the whole will of God <hi>cheerfully. Ps.</hi> 40.8. <hi>Psal.</hi> 110.3. <hi>Ps.</hi> 119.128. 1 <hi>Ioh.</hi> 5.3.</p>
+               <p n="6">VI. In <hi>desiring Synceritie</hi> with much earnest<g ref="char:EOLhyphen"/>nesse. <hi>Psal.</hi> 139.23, 24.</p>
+               <p n="7">VII. In exercising holy duties with <hi>Constancy,</hi>
+                  <pb facs="tcp:107564:24"/>and striving to keep a good conscience toward God and man continually. <hi>Iob</hi> 27.6.11 <hi>Acts</hi> 24.16.</p>
+               <p n="8">VIII. In being truely <hi>poore</hi> in Spirit, carried cleere out of themselves, and every thing else, to Christ alone for all fulnesse. <hi>Jsa.</hi> 57.15.</p>
+               <p n="9">IX. In performing duties <hi>in love</hi> to Christ, de<g ref="char:EOLhyphen"/>siring grace, that he may honor Christ, grieving that he can performe no better service to Christ.</p>
+               <p n="10">X. In desiring, and endevouring the glory of God, and Christ <hi>above</hi> his owne spirituall and temporall good. <hi>Rom.</hi> 9.3. <hi>Luk.</hi> 14.26.</p>
+               <p n="11">XI. In taking up his <hi>full and everlasting rest</hi> with Christ, <hi>Phil.</hi> 1.21. Christ being all contentation to him, heaven it self being without Christ an un<g ref="char:EOLhyphen"/>comfortable and empty dwelling in his apprehen<g ref="char:EOLhyphen"/>sion. <hi>Phil.</hi> 3.7, 8, 9, 10.</p>
+               <p n="12">XII. In being inclined, moved, and carried to God, to Christ, and holy things.</p>
+               <p n="1">1 By the power of a new, and <hi>inward principle</hi> of grace; working a sutablenesse between his heart and the things of God.</p>
+               <p n="2">2 By the vertue of a cleer and <hi>sweet apprehension</hi> which he hath of God in Christ, making him ap<g ref="char:EOLhyphen"/>peare most glorious in his eyes.</p>
+               <p n="3">3 By the efficacy of a <hi>pure and fervent love</hi> to God in Christ, causing him to desire Christ for Christ himself, and all other things for Christs sake, to make himself the more serviceable unto Christ. <hi>Psa.</hi> 40.8. <hi>Psal.</hi> 119.32.</p>
+               <p>Quest. <hi>How may a man know that he hath Faith?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> 1 By the <hi>sense</hi> and feeling of faith it self: the Beleever perceiving, and feeling his heart cho<g ref="char:EOLhyphen"/>sing, and singling out, strongly cleaving unto, and re<g ref="char:EOLhyphen"/>lying
+<pb facs="tcp:107564:24"/>upon Christ. <hi>Rom</hi> 8.38, 39. 1 <hi>Cor.</hi> 2.12. <hi>Mar.</hi> 9.24. 2 <hi>Tim.</hi> 1.12.</p>
+               <p n="2">2 By the fruits and signes of Faith. <hi>Mat.</hi> 7.16, 17. <hi>Iam.</hi> 2.18.</p>
+               <p>Quest. <hi>How many sorts of signes are there?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Two: one of faith more weake; the other of faith more strong.</p>
+               <p>Quest. <hi>What are the signes of faith more weake?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> 1 A <hi>feeling</hi> of the want of faith with an ear<g ref="char:EOLhyphen"/>nest desire to have it. <hi>Mar.</hi> 9.24.</p>
+               <p n="2">2. A spirituall <hi>combate</hi> between the flesh and the Spirit. <hi>Gal.</hi> 5.17. <hi>Rom.</hi> 7.23. <hi>Matt.</hi> 11.28.</p>
+               <p n="3">3. An earnest <hi>seeking</hi> after, and valuing of the love of God in Christ, above all the things in the world. <hi>Cant.</hi> 2.4. <hi>Psal.</hi> 51.8.10. <hi>Psal.</hi> 4 6.</p>
+               <p n="4">4 <hi>Deniall</hi> of our selves, arising from the appre<g ref="char:EOLhyphen"/>hension of our owne vilenesse and emptinesse; and Christs fulnesse to supply our wants. <hi>Mar.</hi> 8.34. 1 <hi>Cor.</hi> 3.18. <hi>Ezek.</hi> 20.43.</p>
+               <p n="5">5 Godly <hi>sorrow</hi> arising from the apprehension of Gods love in Christ, softning, and melting our hearts. <hi>Rom.</hi> 2.4. 2 <hi>Cor.</hi> 7.10, 11. <hi>Zech.</hi> 12.10.</p>
+               <p n="6">6 An high <hi>estimation</hi> of Gods word. <hi>Iob.</hi> 23.12. <hi>Psal.</hi> 119.72. 1 <hi>Pet.</hi> 2.2.</p>
+               <p n="7">7 Unfained <hi>love</hi> to Gods people. 1 <hi>Io.</hi> 3.14. <hi>Gal.</hi> 5, 6.</p>
+               <p>Quest. <hi>What are the Signes of faith more strong?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1 A comfortable <hi>feeling</hi> of Gods love shed abroad into our hearts. <hi>Rom.</hi> 5.5. <hi>Cant.</hi> 1.2.</p>
+               <p n="2">2 A sound and <hi>strong joy</hi> in the Lord, and in his Word. <hi>Rom.</hi> 15.13. <hi>Phil.</hi> 4.7. <hi>Ioh.</hi> 15.11. <hi>Isai.</hi> 9.3. <hi>Neh.</hi> 8.10.</p>
+               <p n="3">3 A holy <hi>admiration</hi> at the wonderfull change
+<pb facs="tcp:107564:25"/>which God hath wrought in us. <hi>Psal.</hi> 66.16.</p>
+               <p n="4">4. An earnest endeavour to <hi>winne</hi> others unto Christ. <hi>Luk.</hi> 22, 32.</p>
+               <p n="5">5 An effectuall and <hi>thorough application</hi> of our selves to Christ, to serve him, and seek his praise, in, and above all things. <hi>Rom.</hi> 12.1, 3. 2 <hi>Cor.</hi> 5.15.</p>
+               <p n="6">6 A firme <hi>dependance</hi> upon God, in the deepest <hi>perplexities,</hi> with a strong perswasion of a happy is<g ref="char:EOLhyphen"/>sue out of all troubles. <hi>Iob</hi> 19.25. <hi>Iob</hi> 13.5. <hi>Rom.</hi> 4, 18.</p>
+               <p n="7">7 An earnest longing for <hi>Christs comming</hi> unto judgement. 2 <hi>Tim.</hi> 4.8. <hi>Cant.</hi> 8.1. <hi>Psalm</hi> 42.1.2. <hi>Rev.</hi> 22.20.</p>
+               <p>Quest. <hi>Cannot a weake Faith save us?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Yes: for it <hi>ingrafteth</hi> us into Christ, ma<g ref="char:EOLhyphen"/>keth us <hi>just</hi> in Gods sight, <hi>gathereth</hi> us into the Fa<g ref="char:EOLhyphen"/>mily of Gods Children, and giveth us <hi>victory</hi> over sin, and Satan. <hi>Ioh.</hi> 15.1. <hi>Io.</hi> 1.12. <hi>Gal.</hi> 3.7 <hi>Isa.</hi> 42.3. <hi>Isa.</hi> 40.11. 1 <hi>Ioh.</hi> 5.4.</p>
+               <p>Quest. <hi>May a man, having gotten a weake faith, rest contented therewith?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> No: but he must carefully endeavour to have it increased. <hi>Mark.</hi> 9.24. <hi>Rom.</hi> 1.17. <hi>Col.</hi> 2.7.</p>
+               <p>Quest. <hi>By what means may a man get his weake Faith confirmed?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> 1 By an ordinary, and <hi>conscionable use</hi> of the Word and Sacraments. <hi>Ephes.</hi> 1.13. <hi>Rom.</hi> 4.11.</p>
+               <p n="2">2 By <hi>fervent prayer</hi> unto God. <hi>Luk.</hi> 17.5.</p>
+               <p n="3">3 By a frequent and <hi>holy meditation</hi> upon Gods promises, fatherly affection, and unspeakable good<g ref="char:EOLhyphen"/>nesse. <hi>Psalm.</hi> 104.34. <hi>Psalm.</hi> 63.5, 6. <hi>Isai.</hi> 49.14.15.</p>
+               <pb facs="tcp:107564:25"/>
+               <p n="4">4 By exercising a <hi>holy communion</hi> with the Saints of God. <hi>Io.</hi> 20.19.25.</p>
+               <p n="5">5 By a <hi>holy care</hi> to shun all sin, with all occasions leading thereunto. <hi>Jam.</hi> 1.27. 1 <hi>Thes.</hi> 5.22.</p>
+               <p n="6">6 By leading a sincere, and <hi>sanctified conversati<g ref="char:EOLhyphen"/>on. Ps.</hi> 11<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.6, 7, 8. 1 <hi>Jo.</hi> 3.19.</p>
+               <p n="7">7 By a patient <hi>waiting</hi> upon God. <hi>Psalm.</hi> 40.1, 2, 3.</p>
+               <p>Qu. <hi>What may move us to get this Faith wrought in us.</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> The benefit and excellency of Faith. 2 <hi>Pet.</hi> 1.1. 1 <hi>Pet.</hi> 1.7.</p>
+               <p>Quest. <hi>Wherein doth the benefit, and excellency of Faith appeare?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> The benefit and excellency of Faith appear<g ref="char:EOLhyphen"/>eth three waies:</p>
+               <p n="1">1 In the <hi>miseries</hi> from which it delivereth.</p>
+               <p n="2">2 In the <hi>evills</hi> which it preventeth.</p>
+               <p n="3">3 In the <hi>priviledges</hi> which it bestoweth.</p>
+               <p>Quest. <hi>What are the miseries from which Faith de<g ref="char:EOLhyphen"/>livereth?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> They are seven:</p>
+               <p n="1">1 From <hi>blindnesse</hi> in our understandings. <hi>Iohn</hi> 15.46.</p>
+               <p n="2">2 From <hi>uncleannesse</hi> in our affections. <hi>Acts</hi> 15.9.</p>
+               <p n="3">3 From a stony and <hi>stupified heart. Zech.</hi> 12.10. <hi>Jona.</hi> 3.5.</p>
+               <p n="4">4 From the <hi>terror</hi> of an accusing conscience, and the insupportable <hi>burden</hi> of our corruptions. <hi>Luk.</hi> 7.48.50. <hi>Num.</hi> 21.8. <hi>Rom.</hi> 5.1.</p>
+               <p n="5">5 From the <hi>sinfull lusts,</hi> fashions, and yeelding to the oppositions of the world. 1 <hi>Io.</hi> 5.4. <hi>Ro.</hi> 12.1.2.</p>
+               <pb facs="tcp:107564:26"/>
+               <p n="6">6 From the <hi>curse</hi> of the Law, and terrour of the Word. <hi>Rom.</hi> 10.4. 1 <hi>Tim.</hi> 1.9.</p>
+               <p n="7">7 From the <hi>feare</hi> of temporall, and condemnation of death eternall. <hi>Ioh.</hi> 5.29. <hi>Ioh.</hi> 3.16.</p>
+               <p>Quest. <hi>What are the evills which Faith preven<g ref="char:EOLhyphen"/>teth?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> They are foure:</p>
+               <p n="1">1 <hi>Apostacy</hi> from the Truth. <hi>Heb.</hi> 10.39.</p>
+               <p n="2">2 Utter <hi>desperation</hi> in the day of affliction. <hi>Mic.</hi> 7, 8. <hi>Iob</hi> 19.25.</p>
+               <p n="3">3 <hi>Impatience,</hi> and use of unlawfull means. <hi>Isai.</hi> 28.16.</p>
+               <p n="4">4 <hi>Sinking</hi> under Satans temptation. <hi>Ephes.</hi> 6.16. 1 <hi>Pet</hi> 5.9.</p>
+               <p>Quest. <hi>What are the priviledges which Faith wrought and confirmed, bestoweth on us?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> They are Twelve:</p>
+               <p n="1">1 <hi>Sonship</hi> with God. <hi>Jo.</hi> 1.12. <hi>Gal.</hi> 3.7.</p>
+               <p n="2">2 <hi>Fellowship</hi> with Christ. <hi>Gal.</hi> 2.20. <hi>Ephes.</hi> 3.17.</p>
+               <p n="3">3 <hi>Interest</hi> in all Gods Promises. <hi>Hebr.</hi> 11.33. <hi>Gal.</hi> 3.14.</p>
+               <p n="4">4 True <hi>comfort</hi> and benefit by all Gods Ordinan<g ref="char:EOLhyphen"/>ces. <hi>Acts</hi> 8.38, 39. <hi>Matt.</hi> 13.24. 1 <hi>Thes.</hi> 1.7.</p>
+               <p n="5">5 <hi>Acceptance</hi> to our persons and actions. <hi>Hebr.</hi> 11.4.6.</p>
+               <p n="6">6 <hi>Audience</hi> to our holy, and fervent prayers. <hi>Ja.</hi> 1.6 <hi>Ja.</hi> 5.15, 16. <hi>Matt.</hi> 21, 22.</p>
+               <p n="7">7 A comfortable <hi>sense</hi> of Gods love in our hearts. <hi>Rom.</hi> 5.5. <hi>Cant.</hi> 1.2. <hi>Psal.</hi> 63.3.</p>
+               <p n="8">8 A sweet <hi>peace</hi> in our consciences, arising from the assured forgivenesse of our sinnes. <hi>Rom.</hi> 5.1. <hi>Ps.</hi> 116.7, 8.</p>
+               <pb facs="tcp:107564:26"/>
+               <p n="9">9 A heavenly <hi>sweetnesse</hi> in the Society of Gods servants. <hi>Rom.</hi> 1.12. <hi>Psal.</hi> 119.72.</p>
+               <p n="10">10 A holy <hi>contempt</hi> of carnall pleasures, with a sweet joy in the deepest afflictions. <hi>Hebr.</hi> 11.25, 1 <hi>Pet.</hi> 1.6, 7.</p>
+               <p n="11">11 <hi>Perseverance</hi> to the end in the way of Godli<g ref="char:EOLhyphen"/>nesse, and favour of the Lord Jesus. 1 <hi>Pet</hi> 1.5.</p>
+               <p n="12">12 <hi>Assurance</hi> of future happinesse after this earthly pilgrimage. 2 <hi>Cor.</hi> 5.1.</p>
+               <p>Quest. <hi>May a man have his Faith so strengthened, that he may be thereby assured of his Salvation?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> He may, and ought to be assured in this life of a happy and glorious estate in the next life. 2 <hi>Cor.</hi> 13.5. 2 <hi>Cor.</hi> 5.1. 1 <hi>Jo.</hi> 3.1, 2. 1 <hi>Io.</hi> 5.18, 19.</p>
+               <p>Quest. <hi>How doth it appeare, that the children of God are sure of their salvation?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Divers ways:</p>
+               <p n="1">1 By the <hi>victory</hi> which their Faith getteth over sin. 1 <hi>Io.</hi> 5.4. <hi>Rom.</hi> 6.18.</p>
+               <p n="2">2 By the holy <hi>change</hi> which it worketh in them. <hi>Acts</hi> 15.9. 1 <hi>Jo.</hi> 3.3. 2 <hi>Cor.</hi> 5.17, 18.</p>
+               <p n="3">3 By feeling their hearts <hi>imbracing,</hi> cleaving unto, and relying upon Christ. <hi>Col.</hi> 2.7. <hi>Iob</hi> 13.15. <hi>Heb.</hi> 6.19. <hi>Psal.</hi> 18.1, 2. <hi>Psal.</hi> 71.1.</p>
+               <p n="4">4 By the <hi>testimony</hi> of Gods Spirit. <hi>Rom.</hi> 8.16.</p>
+               <p n="5">5 By the <hi>evidence,</hi> and witnesse of their owne regenerate Spirit, <hi>Rom.</hi> 8.16. 1 <hi>Io.</hi> 3.21.</p>
+               <p n="6">6 By the feeling of <hi>Gods love</hi> in their soules. <hi>Eph.</hi> 3.19. <hi>Rom.</hi> 5.5.</p>
+               <p n="7">7 By feeling their hearts to love God and Christ <hi>above</hi> all the world. <hi>Psal.</hi> 73.25. <hi>Cant.</hi> 5.10.</p>
+               <p n="8">8 By the <hi>confidence</hi> wherewith they can appeare before God <hi>in prayer. Rom.</hi> 8 15. 1 <hi>Io.</hi> 3.20, 21.</p>
+               <pb facs="tcp:107564:27"/>
+               <p n="9">9 By the <hi>fruits</hi> which they see in themselves pro<g ref="char:EOLhyphen"/>per alone to Gods children, 1 <hi>Cor.</hi> 2.9, 10.</p>
+               <p n="10">10 By feeling the <hi>power</hi> and efficacy of Gods Word, and Spirit, <hi>perswading</hi> their Consciences of Gods goodnesse towards them. <hi>Rom.</hi> 1.16. 1 <hi>Io.</hi> 4.13. <hi>Acts</hi> 10.44.</p>
+               <p>Quest. <hi>Is it requisite that Gods people should labour for assurance of salvation?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Yes: for it is Gods <hi>precept.</hi> 2 <hi>Pet</hi> 1.10. 1 <hi>Jo.</hi> 3.23. one speciall <hi>end</hi> of inditing the Scriptures. 1 <hi>Jo.</hi> 5.13. and the choicest <hi>comfort</hi> of a Christian soule. <hi>Luk.</hi> 10.20. <hi>Col.</hi> 2.2.</p>
+               <p>Qu. <hi>What is the danger or inconvenience, if a man be not assured of his salvation?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> 1 The Ordinances and Promises of God will <hi>lose</hi> their comfort, sweetnesse, and efficacy. <hi>Heb.</hi> 4.2. 1 <hi>Pet.</hi> 2.7, 8. <hi>Isa.</hi> 53.1, 2.</p>
+               <p n="2">2 The consideration of Gods presence will be <hi>dreadfull,</hi> and the thought of Christs comming unto judgement <hi>uncomfortable. Psal.</hi> 139.7. <hi>Revel.</hi> 6.16.</p>
+               <p n="3">3 We shall not be able to beare afflictions with <hi>patience. Num.</hi> 14.11.</p>
+               <p n="4">4 We shall not be able to performe holy duties with <hi>cheerfulnesse, Exod.</hi> 6.9.</p>
+               <p n="5">5 We shall not be able to <hi>blesse</hi> God for our Re<g ref="char:EOLhyphen"/>generation, joy, and comfort of the Spirit, as it is the duty of Gods people to doe. <hi>Col.</hi> 1.12, 13. 1 <hi>Pet.</hi> 1.3.</p>
+               <p n="6">6 We shall not be able to <hi>incourage</hi> others with alacrity and cheerfulnesse in the waies of holinesse, as we ought. <hi>Psal.</hi> 66.16.</p>
+               <p n="7">7 We shall stand continually in the <hi>feare</hi> of death. <hi>Iob.</hi> 15.21.22.</p>
+               <pb facs="tcp:107564:27"/>
+               <p>Quest. <hi>Are Gods children so sure of their salvation, that they are free from all doubting?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> No: For,</p>
+               <p n="1">1 The knowledge, assent, and adherence of Gods people, to the promise of life, is <hi>imperfect,</hi> though sound. 1 <hi>Cor.</hi> 13.9. <hi>Psal.</hi> 77.7.</p>
+               <p n="2">2 They are many times grievously <hi>assaulted,</hi> filled with much doubting, but in the issue they alwayes get the conquest, and are the more assured, because they have been assaulted. 1 <hi>Cor.</hi> 10.13. <hi>Heb.</hi> 6.19. 2 <hi>Timo.</hi> 4.17, 18. <hi>Psal.</hi> 116.3.7, 8. <hi>Psal.</hi> 142.3.</p>
+               <p n="3">3 They sometimes <hi>lose</hi> the efficacie, feeling, and comfort of Faith, but the seed and habite of faith al<g ref="char:EOLhyphen"/>way remaineth. <hi>Luk.</hi> 22.32. <hi>Iob</hi> 13.5. 1 <hi>Ioh.</hi> 3.9. <hi>Io.</hi> 10.28.</p>
+               <p>Quest. <hi>Doe not Gods children sometimes lose their comfort in the waies of God, and assurance of Gods love?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Yes sometimes they are for a season depri<g ref="char:EOLhyphen"/>ved of the evidence, and <hi>sense</hi> thereof. <hi>Psal.</hi> 51.8.12. <hi>Isa.</hi> 49.14.</p>
+               <p>Quest. <hi>How doth it come to passe that Gods children doe sometimes lose their comfort in the Lord?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> 1 Through <hi>falling</hi> into some foule sin. <hi>Ps.</hi> 51.7.8, 9. <hi>Isa.</hi> 59.2.</p>
+               <p n="2">2 Through some grievous and violent <hi>temptation,</hi> with the sense of Gods displeasure against them. <hi>Ps.</hi> 77.2, 3, 4. <hi>Psal.</hi> 22. 1. <hi>Iob</hi> 2.3.4.</p>
+               <p n="3">3 Through overlong, and heavy <hi>affliction. Psal.</hi> 6.6, 7.</p>
+               <p n="4">4 Through the <hi>rebellion</hi> of their inward corrup<g ref="char:EOLhyphen"/>tion. <hi>Rom.</hi> 7.23, 24. 2 <hi>Cor.</hi> 12.7.</p>
+               <p n="5">5 Through the <hi>want</hi> of conscionable, and constant
+<pb facs="tcp:107564:28"/>
+                  <hi>attendance</hi> upon Gods ordinances. <hi>Psal.</hi> 42.4, 5. <hi>A<g ref="char:EOLhyphen"/>mos.</hi> 8.11, 12. 1 <hi>Sam.</hi> 4.20, 21. <hi>Isa.</hi> 30.19.21.</p>
+               <p n="6">6 Through carnall <hi>Security,</hi> and want of keeping a diligent watch over our soules. <hi>Cant.</hi> 5.3.6.</p>
+               <p n="7">7 Through <hi>overburthening</hi> our selves with the cares of the world. <hi>Matt.</hi> 13.22.</p>
+               <p n="8">8 Through <hi>estrangednesse</hi> from Gods servants, and familiarity with unholy people. <hi>Heb.</hi> 3.12, 13, 14. <hi>Heb.</hi> 10.24, 25.</p>
+               <p n="9">9 Thorough <hi>neglect</hi> of walking, and maintaining a holy communion with God. <hi>Psal.</hi> 106.21.23. <hi>Ps.</hi> 89.31, 32, 33.</p>
+               <p n="10">10 God for their <hi>humiliation, triall</hi> of the graces which are in them, and for the <hi>breeding</hi> of a higher estimation of his favour for the time to come, some<g ref="char:EOLhyphen"/>times deprives them of the comfortable feeling thereof for the time present. 2 <hi>Cron.</hi> 32.31. <hi>Iob</hi> 7.18, 19, 20. <hi>Deut.</hi> 8.2.16. <hi>Rev.</hi> 2.10.</p>
+               <p>Quest. <hi>When Gods people are afflicted in Conscience, or deprived of their comfort, how may their peace be re<g ref="char:EOLhyphen"/>stored?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> By considering, and meditating upon ten things in God, and Christ.</p>
+               <p n="1">1 The gentle, gracious, and <hi>mercifull nature,</hi> and disposition of God, and Christ towards all penitent, and broken hearted people. <hi>Isa.</hi> 42.3. <hi>Exod.</hi> 34.6, 7. <hi>Isa.</hi> 40.11. <hi>Ps.</hi> 103.8, 9, 10. <hi>Isa.</hi> 49.14, 15.</p>
+               <p n="2">2 The gracious, and <hi>loving invitations</hi> which God and Christ do use to all sorts of humbled sinners. <hi>Mat.</hi> 11.28. <hi>isa.</hi> 1.16, 17. <hi>Ezek.</hi> 18.31, 32. <hi>Psal.</hi> 81.13, 14, 15. <hi>Mat.</hi> 23.37. <hi>Revel.</hi> 3.20.</p>
+               <p n="3">3 The <hi>freenesse</hi> of Gods grace, and favour, bestow<g ref="char:EOLhyphen"/>ed without any merit, yea contrary to desert upon
+<pb facs="tcp:107564:28"/>the Penitent. <hi>Jsai.</hi> 55.1. <hi>Revel.</hi> 21.6. <hi>Rom.</hi> 3.24. <hi>Ephes.</hi> 2.8.</p>
+               <p n="4">4 The large <hi>extent</hi> of his favour to all sorts of sin<g ref="char:EOLhyphen"/>ners, even to the most hainous, unfainedly seeking mercy. 1 <hi>Tim.</hi> 1.15. <hi>Luk.</hi> 7.47. <hi>Mat.</hi> 21.31 32 <hi>isa.</hi> 55.7.</p>
+               <p n="5">5 His <hi>easinesse</hi> to be intreated by penitent sinners. <hi>Psal.</hi> 32.5. <hi>Luk</hi> 15.20.</p>
+               <p n="6">6 The largenesse and faithfulnesse of his <hi>promises. Jsa.</hi> 44.24, 25, 26. 2 <hi>Cor.</hi> 1 20. <hi>Mal.</hi> 3.6.</p>
+               <p n="7">7 The Sense, and <hi>feeling</hi> which God and Christ have, after a manner unspeakeable, of the miseries of a troubled soule. <hi>Jsa.</hi> 63.9. <hi>Hebr.</hi> 4 15.</p>
+               <p n="8">8 The <hi>efficacie</hi> of Christs blood, to purge away all sin, and appease his Fathers wrath. <hi>Heb.</hi> 9 14. <hi>Rev.</hi> 5.9 <hi>Heb</hi> 12 29.</p>
+               <p n="9">9 The joy and <hi>delight</hi> he doth conceive, when men turne unto him <hi>Luk.</hi> 10.21. <hi>Joh</hi> 11.15.</p>
+               <p n="10">10 The <hi>end</hi> of Christs Sufferings, his Merits, and efficacie of his Intercession for us. <hi>Mark</hi> 9.13. <hi>Rom.</hi> 8.33.34. <hi>isai</hi> 61.1, 2, 3.</p>
+               <p>Quest. <hi>Are there not some other helps in this be<g ref="char:EOLhyphen"/>halfe?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Yes:</p>
+               <p n="1">1 Unfained <hi>humiliation</hi> for the sin which hath cauesd us to lose our comfort. <hi>Psal.</hi> 32.5. <hi>Psal.</hi> 51.8.9, 10 <hi>isai</hi> 57.15.</p>
+               <p n="2">2 A plaine <hi>opening</hi> of our estates, and seeking of direction from Gods holy Ministers. <hi>Acts</hi> 2.37, 38. <hi>Acts</hi> 16.30.31, 32. <hi>Isa</hi> 50.4. <hi>Isa.</hi> 40.1, 2.</p>
+               <p n="3">3 A constant <hi>attendance</hi> upon, and cleaving to the Ministery of the Word. <hi>Cant.</hi> 5, 6, 7. <hi>Psal.</hi> 65.4. <hi>Ps.</hi> 85.6, 7, 8.</p>
+               <pb facs="tcp:107564:29"/>
+               <p n="4">4 Fervent and constant <hi>Prayer. Psal.</hi> 50.15. <hi>Psa.</hi> 34.4.</p>
+               <p n="5">5 A carefull <hi>shutting</hi> of our eares and hearts against Satans Temptations. <hi>Iam.</hi> 4.7. <hi>Ephes.</hi> 4.27.</p>
+               <p n="6">6 A serious <hi>observation</hi> of the graces which God hath wrought in us. <hi>Mat.</hi> 7.16.</p>
+               <p n="7">7 Keeping a holy <hi>Society</hi> with Gods people. <hi>Eccl.</hi> 4.11, 12, 13, 14.</p>
+               <p n="8">8 Consider that our graces are <hi>imperfect,</hi> 1 <hi>Cor.</hi> 13.12. that Satan doth desire to <hi>vexe</hi> Gods people. <hi>Iob.</hi> 1.11, 12. <hi>Lu.</hi> 22.31. that it is the usuall manner of Gods dealing with his people, thus to afflict them, not for their destruction but for their humiliation, triall, and amendment. <hi>Heb.</hi> 12.5, 6, 7. 1 <hi>Cor.</hi> 10.13. <hi>Jam.</hi> 1.12.</p>
+               <p>Quest. <hi>How may Gods people prevent the losing of their comfort?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> 1 By meditating seriously upon the loving kindnesse of the Lord every <hi>morning. Psal.</hi> 92 1, 2, 3, 4.</p>
+               <p n="2">2 By walking religiously, and circumspectly in all the dueties of the <hi>day. Prov.</hi> 28.14. <hi>Prov.</hi> 23.17. 1 <hi>Pet.</hi> 1.17.</p>
+               <p n="3">3 By viewing their waies, renewing their repen<g ref="char:EOLhyphen"/>tance, and making their peace with God every <hi>even<g ref="char:EOLhyphen"/>ing. Psal.</hi> 4.4.</p>
+               <p>Quest. <hi>What are the hindrances whereby the people of God are deprived of their assurance and comfort?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> They are partly on the Ministers, and partly on the peoples behalfe.</p>
+               <p>Quest. <hi>What are the hindrances on the Ministers be<g ref="char:EOLhyphen"/>halfe?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> 1 Not teaching, seldome teaching, cold,
+<pb facs="tcp:107564:29"/>unprofitable, and licencious teaching, and profane walking. <hi>Jere.</hi> 23.1, 10, 11.14. <hi>Isa.</hi> 56.10 11.</p>
+               <p>Quest. <hi>What Impediments are there on the behalfe of the people?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> On the behalfe of wicked people,</p>
+               <p n="1">1 A Sinfull <hi>presumption</hi> upon the goodnesse of their present estate. <hi>Ioh.</hi> 9.41.</p>
+               <p n="2">2 An ill grounded <hi>hope</hi> upon Gods mercies. <hi>Iude</hi> vers. 4.</p>
+               <p n="3">3 A resting in a <hi>bare profession</hi> of the Truth. <hi>Tit.</hi> 1, 16.</p>
+               <p n="4">4 <hi>Reservation</hi> of some beloved sinne. <hi>Mark.</hi> 6.18.</p>
+               <p>Quest. <hi>What are the hindrances on the behalf of good people?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> 1 <hi>Ignorance</hi> of the saving graces, which God hath wrought in them.</p>
+               <p n="2">2 <hi>Concealement</hi> of their doubts, without seeking resolution. <hi>Psal.</hi> 32.3.</p>
+               <p n="3">3 A sole, and overstrict <hi>fastning</hi> of their eies upon their infirmities. <hi>Eccles.</hi> 7.17</p>
+               <p n="4">4 <hi>Discontentednesse,</hi> and unruly passions. <hi>Num.</hi> 11.5. <hi>Exod.</hi> 14.12.</p>
+               <p n="5">5 <hi>Neglect</hi> of the meanes. <hi>Ioh.</hi> 20.24, 25.</p>
+               <p n="6">6 An <hi>unprofitable</hi> Conversation. 2 <hi>pet.</hi> 1.10, 11.</p>
+               <p>Quest. <hi>What is the dignity arising to Gods people in this life from their justification?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Adoption. <hi>Gal</hi> 5.4. <hi>Ioh.</hi> 1.12.</p>
+               <p>Quest. <hi>What is Adoption?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> It is that divine favour, whereby of being strangers we receive the dignity of being sonnes and daughters unto God, through Christ: <hi>Io</hi> 1.12. 1 <hi>Ioh.</hi> 31.1, 2. 2 <hi>Cor.</hi> 6.17, 18. <hi>Ephes.</hi> 1.5. <hi>Gal.</hi> 4, 5.</p>
+               <pb facs="tcp:107564:30"/>
+               <p>Quest. <hi>What are the benefits of Adoption?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> They are eight:</p>
+               <p n="1">1 Spirituall <hi>Sonship</hi> with God. <hi>Gal.</hi> 4.6.</p>
+               <p n="2">2 <hi>Heireship</hi> with Christ. <hi>Rom.</hi> 8.17.</p>
+               <p n="3">3 <hi>Peace</hi> with the Father. <hi>Rom.</hi> 5.1.</p>
+               <p n="4">4 <hi>Boldnesse</hi> in Prayer. <hi>Rom.</hi> 8.15.</p>
+               <p n="5">5 Christian <hi>libertie. Ioh.</hi> 8.32.36.</p>
+               <p n="6">6 <hi>Dominion</hi> over the creatures. <hi>Tit.</hi> 1.15. 1 <hi>Cor.</hi> 3.21, 22.</p>
+               <p n="7">7 The <hi>ministration</hi> of the Angels. <hi>Hebr.</hi> 1.14.</p>
+               <p n="8">8 Happy <hi>issue</hi> out of all affliction. <hi>Rom.</hi> 8.28. 2 <hi>Sam.</hi> 7.14.</p>
+               <p>Quest. <hi>But are there not some doe perswade them<g ref="char:EOLhyphen"/>selves of their justification, and adoption, who notwith<g ref="char:EOLhyphen"/>standing are therein altogether deluded by Satan?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Yes, some building upon a meere morall, formall, temporary, or partiall reformation, are so de<g ref="char:EOLhyphen"/>luded by Satan. 2 <hi>pet.</hi> 2.20.22. <hi>Matth.</hi> 12.41. <hi>Matt.</hi> 25.1.</p>
+               <p>Quest. <hi>How may we therefore discerne the infallible perswasion of the Spirit from the delusion of the flesh and Satan.</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Wheresoever the true perswasion of the Spi<g ref="char:EOLhyphen"/>rit is:</p>
+               <p n="1">1 There is sound and comfortable <hi>experience</hi> of a holy, and through change, carrying with it sorrow for, hatred against, and care to prevent all sinne, and a hearty love to every good duty. <hi>psal.</hi> 66.16. <hi>psal.</hi> 119.104.127, 128.</p>
+               <p n="2">2 The whole life is <hi>guided,</hi> and ordered according to the rule of Gods Word. <hi>Gal.</hi> 6.16.</p>
+               <p n="3">3 There is a holy, humble, conscionable, and con<g ref="char:EOLhyphen"/>stant
+<pb facs="tcp:107564:30"/>
+                  <hi>attendance</hi> upon, affectionate <hi>entertainment</hi> of, and an universall, and ready <hi>subjection</hi> to all the ordi<g ref="char:EOLhyphen"/>nances of God. <hi>Iob.</hi> 23.12. <hi>Psa.</hi> 84.10. <hi>Luke</hi> 1.6.</p>
+               <p n="4">4 There is a constant <hi>putting</hi> up of strong, holy, filiall, and fervent <hi>supplications,</hi> unto the throne of grace. 1 <hi>Thes.</hi> 5.17. <hi>Psalm.</hi> 109.4. <hi>Rom.</hi> 8.15.</p>
+               <p n="5">5 There is a ready <hi>giving of libertie</hi> to every grace of the Spirit, to have its perfect worke in every fa<g ref="char:EOLhyphen"/>cultie of the soule, and action, and occasion of the life. <hi>Ia.</hi> 1.4.</p>
+               <p n="6">6 There is a circumspect, due, and <hi>tender regard</hi> had to every particular branch, and particle of every one of Gods precepts, even the least, as well as the greatest. <hi>Mat.</hi> 5.19. 1 <hi>Thes.</hi> 5.22.</p>
+               <p n="7">7 There is an <hi>earnest desire,</hi> and holy endeavour to attaine perfection in all goodnesse. <hi>Phil.</hi> 3.12, 13, 14. <hi>Psal.</hi> 84.7.</p>
+               <p n="8">8 There is a blessed <hi>thriving,</hi> and gracious pro<g ref="char:EOLhyphen"/>gresse in true holinesse, even by that which in it selfe is the greatest hinderance. 2 <hi>Cor.</hi> 12.7, 8. <hi>Rom.</hi> 8.28. <hi>Psal.</hi> 119.71.</p>
+               <p n="9">9 <hi>Satans assaults</hi> doe usually attend it, that if it be possible he may either take away, or weaken the com<g ref="char:EOLhyphen"/>fort of the heart so perswaded. <hi>Luk.</hi> 22.31. <hi>Zech.</hi> 3.1, 2, 3.</p>
+               <p n="10">10 There is usually the most sweet, blessed, and <hi>comfortable communion</hi> between God and the sancti<g ref="char:EOLhyphen"/>fied soule so perswaded, when it is most <hi>scorned,</hi> and opposed by the world. <hi>Acts.</hi> 13.50. <hi>Psal.</hi> 27.10. <hi>Ps.</hi> 119.54.</p>
+               <p n="11">11 There is a holy care to <hi>exalt</hi> God in all, and a<g ref="char:EOLhyphen"/>bove
+<pb facs="tcp:107564:31"/>all, preferring his honour before our owne wel<g ref="char:EOLhyphen"/>fare. <hi>Rom.</hi> 9.1, 2. 2 <hi>Cor.</hi> 4 5.</p>
+               <p n="12">12 At such times as we have <hi>prayed</hi> most fervent<g ref="char:EOLhyphen"/>ly, <hi>bewailed</hi> our sin most heartily, and most deeply, <hi>conversed</hi> with God, most fully, and most solemnly, <hi>maintained</hi> our communion with God most careful<g ref="char:EOLhyphen"/>ly, <hi>frequented</hi> his ordinances most preparedly; doe we feele this perswasion of the Spirit most lively, and most comfortably. <hi>Psal.</hi> 112.1, 2, 3, 4. <hi>Psalm.</hi> 23.4. <hi>Isai.</hi> 61.1, 2, 3.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI.</head>
+               <head type="sub">Question.</head>
+               <p>
+                  <hi>VVHat is the fift step by which God proceedeth in the work of mans salvation?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Sanctification.</p>
+               <p>Quest. <hi>What is Sanctification?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> It is a new qualitie of holinesse wrought in Godschosen and converted people. <hi>Rom.</hi> 12.1.2. <hi>Eph.</hi> 4.22. 2 <hi>Cor.</hi> 4.16.</p>
+               <p>Quest. <hi>What are the parts of Sanctification?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> They are two:</p>
+               <p n="1">1. <hi>Mortification,</hi> which is a destroying of the po<g ref="char:EOLhyphen"/>wer and dominion of sinne, and in part an abolishing of the same. <hi>Col.</hi> 3.3.5.</p>
+               <p n="2">2 <hi>Vivification,</hi> which is a restoring of the image and life of God in man. <hi>Col</hi> 3.10.</p>
+               <p>Qu. <hi>How manifold is sanctification?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Inward and outward. <hi>Iam.</hi> 4.8.</p>
+               <p>Quest. <hi>Wherein consisteth the inward Sanctifica<g ref="char:EOLhyphen"/>tion?</hi>
+               </p>
+               <pb facs="tcp:107564:31"/>
+               <p>
+                  <hi>Ans.</hi> 1 In the renewing of the <hi>minde,</hi> whereby ignorance is removed. <hi>Ephes</hi> 1.17 <hi>Col.</hi> 3.10.</p>
+               <p n="2">2 In the change of the <hi>will,</hi> making it prompt, and ready to shun evill, and chose good. <hi>Rom.</hi> 12.1, 2.</p>
+               <p n="3">3 In the renovation of the <hi>affections,</hi> whereby the sanctified man is inabled to moderate his affections in a right manner. <hi>Phil.</hi> 4.5.</p>
+               <p>Quest <hi>Wherein consisteth the outward Sanctifica<g ref="char:EOLhyphen"/>tion?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> In making our whole outward conversa<g ref="char:EOLhyphen"/>tion conformable to the Law of God. <hi>Psalm.</hi> 26.6.</p>
+               <p>Quest. <hi>Who is the Authour of our Sanctifica<g ref="char:EOLhyphen"/>tion?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> As the Father doth chose, and the Son re<g ref="char:EOLhyphen"/>deem, so the holy Ghost doth most properly Sancti<g ref="char:EOLhyphen"/>fie. 1 <hi>Pet.</hi> 1.2. <hi>Tit.</hi> 3.4, 5. <hi>Mat.</hi> 3.11.</p>
+               <p>Quest. <hi>Are we not able to Sanctifie and turne our selves to God?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> No: our Sanctification is the gift and worke of God in Jesus Christ; we can no more make our selves new creatures, than we could at first make our selves men. <hi>Act.</hi> 5.31. <hi>Act.</hi> 11.14. <hi>Psal.</hi> 51.10. <hi>Ephes.</hi> 2.10.</p>
+               <p>Quest. <hi>If men cannot convert and sanctifie them<g ref="char:EOLhyphen"/>seves, why doth God command them so to doe?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> 1 Because God created them able, and may justly require what he gave them. <hi>Eccles.</hi> 7.29.</p>
+               <p n="2">2 Because God will thereby <hi>shew</hi> man what he ought to doe, <hi>humble</hi> him for his disabilitie, <hi>stirre</hi> him up to seek grace to doe it, and will by the word of exhortation, accompanied with his Spirit, <hi>worke</hi> abi<g ref="char:EOLhyphen"/>litie
+<pb facs="tcp:107564:32"/>in his chosen. <hi>John</hi> 5.25. <hi>Rom.</hi> 1.16. <hi>Rom.</hi> 7.8, 9.</p>
+               <p>Quest. <hi>But when the Protestants teach that God doth by his Ministers exhort Reprobates, in whom he doth not intend to work Sanctification, doe they not make God a deluder, and are not such exhortations in vaine, as the</hi> Jesuites <hi>affirme?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> No: For,</p>
+               <p n="1">1 Hereby they are left, without all <hi>excuse. Rom.</hi> 1.20. <hi>Ezek.</hi> 2.5. <hi>Io.</hi> 15.22.</p>
+               <p n="2">2 Hereby they are <hi>convinced</hi> of their owne vile<g ref="char:EOLhyphen"/>nesse, and constrained to acknowledg Gods procee<g ref="char:EOLhyphen"/>dings to be righteous. <hi>Rom.</hi> 7.7, 8, 9. <hi>Ierem.</hi> 3.25. <hi>Ps.</hi> 64.8, 9.</p>
+               <p n="3">3 Hereby through the contempt of it, they are the more <hi>hardened,</hi> and Gods Justice in their con<g ref="char:EOLhyphen"/>demnation, is the more glorious. 2 <hi>Cor.</hi> 2.15, 16. <hi>Isa.</hi> 6.9, 10.</p>
+               <p n="4">4 Hereby they are <hi>turned</hi> from many abominati<g ref="char:EOLhyphen"/>ons, though not effectually converted. 1 <hi>Thes.</hi> 1.9. <hi>Tit.</hi> 2.11, 12, 13.15. <hi>Mark.</hi> 6.20. 2 <hi>Pet.</hi> 2.20.</p>
+               <p n="5">5 Hereby they are brought to <hi>acknowledge</hi> God, and Christ Jesus, and so the Gospel is made in some sort the more glorious. <hi>Matth.</hi> 24.14. 1 <hi>Tim.</hi> 2.4.</p>
+               <p n="6">6 This is the <hi>rule</hi> of life, and judgement propo<g ref="char:EOLhyphen"/>sed unto all. <hi>Gal.</hi> 6.16. <hi>Rom.</hi> 3.27. <hi>Joh.</hi> 12.48, 49. <hi>Ro.</hi> 2.12.16.</p>
+               <p n="7">7 It is not the <hi>decree</hi> of Reprobation doth disable them, when God doth bid them, but their owne <hi>in<g ref="char:EOLhyphen"/>fidelity</hi> and corruption. <hi>Mat.</hi> 23.37.</p>
+               <p n="8">8 God doth invite men by his <hi>Ministers,</hi> and they
+<pb facs="tcp:107564:32"/>know not but that the people so invited, are within the decree of Election. <hi>Mat.</hi> 23.37. <hi>Luk.</hi> 19.41, 42.</p>
+               <p n="9">9 The invitations so used are most <hi>properly</hi> to the Elect, <hi>accidentally</hi> to the <hi>Reprobate,</hi> as they are ming<g ref="char:EOLhyphen"/>led among the chosen. <hi>Mat.</hi> 13.24.</p>
+               <p n="10">10 Hereby the strength of their <hi>love to sinne,</hi> and mighty bent and inclination of their hearts to what is evill, is the more fully discovered. <hi>Ioh.</hi> 18.40. <hi>Matt.</hi> 22.5, 6.</p>
+               <p n="11">11 Gods invitations and promises are upon <hi>con<g ref="char:EOLhyphen"/>dition</hi> of Faith and Repentance. <hi>Mark.</hi> 16.15, 16.</p>
+               <p n="12">12 Hereby they are <hi>sustained</hi> against despaire, have <hi>hope</hi> of conversion during life, and are <hi>encouraged</hi> to attendance upon, and to yeeld some conformity un<g ref="char:EOLhyphen"/>to the ordinances of God. <hi>Ezek.</hi> 33.11. 2 <hi>Pet.</hi> 3.9. Thus we see God doth not delude, but for good cause invite even Reprobates unto Repentance, and Holi<g ref="char:EOLhyphen"/>nesse, thereby sometimes in a great measure restrain<g ref="char:EOLhyphen"/>ing them from running into the highest excesse of e<g ref="char:EOLhyphen"/>vill, though he communicate not renewing grace unto them.</p>
+               <p>Quest. <hi>How doth restraining and renewing grace differ?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> 1 They differ, first in their <hi>moving cause:</hi> re<g ref="char:EOLhyphen"/>newing grace commeth from the <hi>speciall</hi> love of God to man in Christ: restraining grace proceedeth from the <hi>generall,</hi> and common mercy of God. <hi>Psal.</hi> 145.2.</p>
+               <p n="2">2 They differ in their <hi>effects:</hi> renewing grace <hi>changeth</hi> the nature of man, mortifieth and destroyeth sinne, and makes man a new man throughout; re<g ref="char:EOLhyphen"/>straining
+<pb facs="tcp:107564:33"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:107564:33"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:107564:34"/>grace doth only <hi>inhibit</hi> the exercise of sin, working no reall and gracious change in man. 2 <hi>Cor.</hi> 5.17, 18. 2 <hi>Tim.</hi> 3.5.</p>
+               <p n="3">3 They differ in their <hi>extent:</hi> restraining grace is <hi>common</hi> to good and bad; renewing grace is <hi>proper</hi> to the Elect effectually called: restraining grace <hi>bindes</hi> some <hi>one</hi> faculty of the soul, or member of the body; renewing grace doth <hi>worke</hi> upon, and Sanctifie the <hi>whole</hi> man: restraining grace <hi>withholdeth</hi> man from <hi>some</hi> sin; renewing grace <hi>takes a man off</hi> from the dominion and love of <hi>all</hi> sin, and carries man to an equall observation of all Gods precepts: restraining grace keeps a man back from sinne for a <hi>season;</hi> re<g ref="char:EOLhyphen"/>newing grace so keeps man, that he returns <hi>no more</hi> to sinne. 1 <hi>Thessal.</hi> 5.23. 1 <hi>Ioh.</hi> 2.19. <hi>Luk.</hi> 1.6. <hi>Psalm.</hi> 85.8.</p>
+               <p>Quest. <hi>How doth that renewing and sanctifying grace, which is in Gods children, differ from that tempo<g ref="char:EOLhyphen"/>rary grace, which is in them that fall away?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> I. They differ in the <hi>matter:</hi> temporary grace is a previous <hi>preparation,</hi> and disposition to Sanctification: saving grace is a <hi>holy seed,</hi> and graci<g ref="char:EOLhyphen"/>ous habite: differing one from the other, as an Em<g ref="char:EOLhyphen"/>brio from a childe: the one brings a man nigh: the other enters, and states a man in the kingdome of grace.</p>
+               <p n="2">II. They differ in the <hi>Cause efficient:</hi> temporary grace is from the Word and Spirit, enlightning, ex<g ref="char:EOLhyphen"/>citing, and <hi>slenderly affecting</hi> the soule: saving grace is from the Word and Spirit, mightily, and <hi>graciously changing</hi> the whole man, transforming the heart, and turning the whole fabrick of the soul to God. 2 <hi>Cor.</hi> 5.17. <hi>Acts.</hi> 15.19. 1 <hi>Thess.</hi> 1.9.</p>
+               <pb facs="tcp:107564:34"/>
+               <p n="3">III. They differ in the <hi>Subject:</hi> temporary grace is found in the <hi>unregenerate:</hi> saving grace is onely found in a <hi>regenerate</hi> and renewed heart.</p>
+               <p n="4">IIII. They differ in the <hi>principles</hi> from which they worke: saving grace worketh from principles of its <hi>owne,</hi> carrying a man to God and godly dueties, by a kind of naturall, inward, sweet and pleasing pro<g ref="char:EOLhyphen"/>pensity, and willingnesse, making a man apt and rea<g ref="char:EOLhyphen"/>dy to every good duty. <hi>Psalm.</hi> 119.14.16.20.31.35. <hi>Ezek.</hi> 36.27. <hi>Cant.</hi> 1.4. <hi>Psalm.</hi> 110.3. But Tempo<g ref="char:EOLhyphen"/>rary grace workes from forreine, and <hi>false principles,</hi> as selfe-love, civill policie, Satans delusions, &amp;c. 2 <hi>Cor.</hi> 11.13, 14, 15. <hi>Rom.</hi> 16.18. <hi>Phil.</hi> 1.15, 16. 2 <hi>Pet.</hi> 2.15, 16 1 <hi>Pet.</hi> 5.2.</p>
+               <p n="5">V. They differ in sixe effects:</p>
+               <p>First, Saving grace causeth a man to finde a spiri<g ref="char:EOLhyphen"/>tuall, sweet, and full <hi>complacency</hi> in God, in Christ, and holy dueties; temporary grace ministers onely a weake, transitory, and <hi>flitting taste</hi> in the things of God, it never makes God and Christ the Paradice, and onely joy of the soule. <hi>Psalm.</hi> 73.25. <hi>Psalm.</hi> 19.10. <hi>Psalm.</hi> 119.72.97.103. <hi>Ioh.</hi> 4.34, 35. <hi>Hebr.</hi> 6.5. <hi>Ioh.</hi> 5.35.</p>
+               <p n="2">2 Saving grace puts a man upon the duties of god<g ref="char:EOLhyphen"/>linesse, out of an obedient, syncere, and <hi>honest heart,</hi> causing a man to serve God, for God himselfe: tem<g ref="char:EOLhyphen"/>porary grace, puts a man upon the duties of godli<g ref="char:EOLhyphen"/>nesse from extrinsecall, sinister, and <hi>wrong ends,</hi> and grounds. 2 <hi>Cor.</hi> 5.14. <hi>Isa.</hi> 38.3. 2 <hi>cron.</hi> 31.20, 21. <hi>Psal.</hi> 15.2. 2 <hi>Chron.</hi> 25.2. 2 <hi>King.</hi> 10.15. <hi>Matth.</hi> 6.1, 2.5.</p>
+               <p n="3">3 Saving grace causeth a man to follow the Lord <hi>fully,</hi> in the destruction of all sinne, in the observation
+<pb facs="tcp:107564:35"/>of all Gods precepts, and in the application of the whole man to godly duties: temporary grace causeth a man to follow the Lord <hi>unevenly,</hi> haltingly, and by halves. <hi>Num</hi> 32.12. <hi>Ios.</hi> 14.8. 1 <hi>Kings.</hi> 11.4.6. <hi>Luk.</hi> 9.33, 34. <hi>Revel.</hi> 14.4. <hi>Mark.</hi> 6.20. <hi>Joh.</hi> 12.6. <hi>Hose.</hi> 7.8.</p>
+               <p n="4">4 Saving grace makes a man <hi>humble,</hi> contrite, and broken hearted, it emptieth him wholly of himself, and carries him altogether out of himselfe unto Christ: temporary grace <hi>leaves a man in himselfe,</hi> re<g ref="char:EOLhyphen"/>maining still guilty of selfe opinion, and selfe seeking. <hi>Isa.</hi> 57.15, 16. <hi>Isa.</hi> 61.2, 3. <hi>Isa.</hi> 66.2. 1 <hi>Pet.</hi> 5.5. <hi>Matth.</hi> 23.5.</p>
+               <p n="5">5 Saving grace carries a man to Christ, <hi>for Christ:</hi> for the beauties and perfections which he sees in Christ, it puts him upon holy duties, to gaine grace that he may serve Christ: temporary grace leads a man to Christ <hi>for selfe-respects,</hi> that he may obtaine salvation by Christ. <hi>Hebr.</hi> 12.29. <hi>Cant.</hi> 5.10. <hi>Ioh.</hi> 6.26. <hi>Matt.</hi> 19.16.</p>
+               <p n="6">6 Saving grace disposeth the heart to the perfor<g ref="char:EOLhyphen"/>mance of holy duties in a <hi>holy, humble, serious &amp; reve<g ref="char:EOLhyphen"/>rend manner,</hi> causing man to see matter of soule<g ref="char:EOLhyphen"/>abas<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ment in his best service: temporary grace puts man upon the performance of holy duties, in a <hi>custo<g ref="char:EOLhyphen"/>mary, formal, perfunctory, or vaine glorious manner. Ps.</hi> 2.10. <hi>Psalm.</hi> 5.7. <hi>Psalm.</hi> 89.7. <hi>Hos.</hi> 3.3. <hi>Iob</hi> 42.6. <hi>Matth.</hi> 13.5. 2 <hi>Sa.</hi> 6.6, 7. <hi>Eccles.</hi> 5.1.2. 2 <hi>Timo.</hi> 3.5.</p>
+               <p n="6">VI. They differ in their <hi>duration,</hi> saving grace in<g ref="char:EOLhyphen"/>ables a man to hold out unto the end, and to ascend to more perfection: temporary grace fainteth, faileth, and comes to nothing after a season. <hi>Iob</hi> 27.9. <hi>Isai.</hi>
+                  <pb facs="tcp:107564:35"/>40.29, 30, 31. <hi>Psal.</hi> 84.7. <hi>Ioh.</hi> 4.14. <hi>Io.</hi> 5.35. <hi>Matth.</hi> 13.21, 22.</p>
+               <p>Quest. <hi>Is Sanctification and renewing grace ah<g ref="char:EOLhyphen"/>solutely needfull unto salvation?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Yes, for hereunto we are <hi>chosen,</hi> hereby we are <hi>like</hi> God, and without this we cannot <hi>enter</hi> into the Kingdome of God. <hi>Ephes.</hi> 1.4. 2 <hi>Thes.</hi> 2.13. 1 <hi>Pet.</hi> 13. <hi>Ephes.</hi> 2.13. <hi>Jo.</hi> 13.5.</p>
+               <p>Quest. <hi>What are the Conditions of our Sanctifi<g ref="char:EOLhyphen"/>cation?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1. It is true and sound. <hi>Ios.</hi> 24.14. <hi>Psalm.</hi> 32.2.</p>
+               <p n="2">2 Inward as well as outward. <hi>Psal.</hi> 51.6. <hi>Joh.</hi> 4.24. <hi>Iam.</hi> 4.8. <hi>Rom.</hi> 12.1, 2.</p>
+               <p n="3">3 Universall, extending to all the faculties of the soule, and members of the body. 1 <hi>Thes</hi> 5.23. <hi>Luk.</hi> 1.6. <hi>Rom.</hi> 6.13. <hi>Ioh.</hi> 13.7. <hi>Ezek.</hi> 18.30, 31.</p>
+               <p n="4">4 It doth still grow, and yet in this life it is not perfect. <hi>Phil.</hi> 3.12, 13. 1 <hi>Pet.</hi> 2.2. 1 <hi>Thes.</hi> 4.1. <hi>Io.</hi> 13.8. <hi>Isa</hi> 64.6. 1 <hi>Joh.</hi> 1.8.</p>
+               <p n="5">5. It is constant, and doth not vanish. <hi>Psal.</hi> 84.7. <hi>Isa.</hi> 40.31.</p>
+               <p>Quest. <hi>Is our Sanctification so sure and constant, that we can never lose it?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> We may lose some <hi>degrees</hi> of it, but the <hi>seed</hi> of grace still remaineth, and Gods renewed I<g ref="char:EOLhyphen"/>mage is never wholly abolished. 1 <hi>Joh.</hi> 3.9.</p>
+               <p>Quest. <hi>How may this appeare?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> 1. The Fathers <hi>Election</hi> is infallible. 2 <hi>Tim.</hi> 2.19. <hi>Rom.</hi> 8.30. <hi>Matth.</hi> 24.24.</p>
+               <p n="2">2 The Sonnes <hi>Redemption</hi> shall not be frustrated. <hi>Heb.</hi> 2.14. <hi>Isai.</hi> 42.7. <hi>Rev.</hi> 3.7. <hi>Matth.</hi> 1.11. <hi>Tit.</hi> 2.14.</p>
+               <pb facs="tcp:107564:36"/>
+               <p n="3">3 The Spirit in <hi>application</hi> of the benefits of Christs passion, is irresistible, and unchangeable. <hi>Ezek.</hi> 36.25, 26, 27, 28, 29. <hi>isa.</hi> 11.6. <hi>Luk.</hi> 3.5. <hi>joh.</hi> 16.13. <hi>Ephes.</hi> 1.13, 14.</p>
+               <p n="4">4 The <hi>Regeneration</hi> of Gods people is perpetu<g ref="char:EOLhyphen"/>all. 1 <hi>Pet</hi> 1, 2, 3. 1 <hi>Ioh.</hi> 3.9. <hi>Ia.</hi> 1.21. <hi>Jo.</hi> 4.14.</p>
+               <p n="5">5 The <hi>Love</hi> of God to his Chosen is unchange<g ref="char:EOLhyphen"/>able. <hi>Ioh.</hi> 13. 1 <hi>jere.</hi> 31.3. <hi>isai.</hi> 54.4, 5, 6, 7, 8.10.</p>
+               <p n="6">6 Their <hi>union,</hi> with their Head Christ Jesus is unseparable. <hi>joh.</hi> 10.28. <hi>Matth.</hi> 16.18. <hi>Hos.</hi> 2.19.</p>
+               <p n="7">7 The <hi>Kingdome,</hi> and dominion of Christ with<g ref="char:EOLhyphen"/>in them is invincible. <hi>Lu.</hi> 1.33. <hi>Lu.</hi> 21.22. <hi>Dan.</hi> 2.44. <hi>Psal.</hi> 2.9.</p>
+               <p n="8">8 The <hi>power</hi> by which they are supported is in<g ref="char:EOLhyphen"/>conquerable. 1 <hi>Pet.</hi> 1.4, 5. <hi>Psal.</hi> 37.24. 1 <hi>Cor.</hi> 1.8, 9.</p>
+               <p n="9">9 No <hi>temptation</hi> shall utterly cast them downe. 1 <hi>cor.</hi> 10.13. <hi>Matth.</hi> 8.26.</p>
+               <p n="10">10 The <hi>intercession</hi> of Christ is uncessant and effe<g ref="char:EOLhyphen"/>ctuall in the behalfe of his chosen people. <hi>joh.</hi> 17.11. <hi>joh.</hi> 16.23. <hi>Rom.</hi> 8.34. <hi>Heb.</hi> 9.24.</p>
+               <p n="11">11 The <hi>saving gifts</hi> and graces of Gods Spirit are without Repentance <hi>Rom.</hi> 11.29. <hi>jerem.</hi> 32.40.41.</p>
+               <p n="12">12 All shall turne for the <hi>best</hi> to them that love God. <hi>Rom.</hi> 8.28.</p>
+               <p>Quest. <hi>How doth Sanctification, and justificati<g ref="char:EOLhyphen"/>on differ?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1 Justification is a <hi>relative</hi> change of the Beleevers estate, being reputed righteous by the imputation of the Righteousnesse of Christ. <hi>Ro.</hi> 4.5.
+<pb facs="tcp:107564:36"/>Sanctification is a <hi>reall</hi> change of a man, from the filthinesse of sinne, into the Image of God. <hi>Ephes.</hi> 4.22.23, 24.</p>
+               <p n="2">2 Justification is an <hi>absolution</hi> of the sinner from the guilt of sinne, and death: but Sanctification is an <hi>alteration</hi> of the qualities from evill to good, the former freeth the Beleever from the guilt, the later from the filthinesse, and spot of sinne. <hi>Rom.</hi> 8.1, 2. 2 <hi>cor.</hi> 5.17, 18.</p>
+               <p n="3">3 Justification is the <hi>righteousnesse</hi> of Christ <hi>im<g ref="char:EOLhyphen"/>puted</hi> to us: Sanctification is a <hi>righteousnesse inherent,</hi> and wrought in us. <hi>Rom.</hi> 10.3, 4 <hi>Rom.</hi> 8.10.</p>
+               <p n="4">4 Justification is from the <hi>merit</hi> of Christ, but Sanctification is from the <hi>efficacie</hi> of Christs death and Resurrection. <hi>Ephes.</hi> 1.19. <hi>Ephes.</hi> 2.1.</p>
+               <p n="5">5 Justification is before Sanctification in order of <hi>nature,</hi> but not in <hi>time.</hi> 2 <hi>cor.</hi> 7.1. <hi>Rom.</hi> 8.30.</p>
+               <p n="6">6 Sanctification is in our <hi>apprehension</hi> and feel<g ref="char:EOLhyphen"/>ing before Justification, as we see the light before we can see the Sunne. 1 <hi>Cor.</hi> 6.11.</p>
+               <p n="7">7 Justification, consisting in the imputation of Christs Righteousnesse is <hi>perfect,</hi> the <hi>first moment:</hi> but Sanctification, being a reall change, is wrought <hi>by degrees.</hi> 2 <hi>Cor.</hi> 3.18.</p>
+               <p n="8">8 Justification is required, as the <hi>Cause</hi> of our salvation; Sanctification, as a <hi>condition,</hi> or quality, fitting us for heaven; the former is called the <hi>cause</hi> of reigning, the later, the <hi>way</hi> to the Kingdome. <hi>Rom.</hi> 6.22, 23.</p>
+               <p>Quest. <hi>What is the Rule of our Sanctification?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> The whole Word of God, both the Law and the Gospel. <hi>Isai.</hi> 8.20. <hi>Psal.</hi> 119.9. 2 <hi>Tim.</hi> 1.15. <hi>Iob</hi> 22.22. <hi>Io.</hi> 17.17.</p>
+               <pb facs="tcp:107564:37"/>
+               <p>Quest. <hi>Hath not Christ by his obedience delivered us from the Law?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Christ hath delivered all true Beleevers from the rigor, curse, and coaction of the Law, and from seeking Justification by the Law. <hi>Gal.</hi> 3.10, 11, 12, 13. <hi>Rom.</hi> 10.4. <hi>Jam.</hi> 1.25. <hi>Jam.</hi> 2.12.</p>
+               <p>Quest. <hi>If Christ hath thus satisfied the Law, how are Beleevers yet bound to the Law?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Beleevers are tyed to the Law, as to a <hi>rule</hi> of life, a <hi>means</hi> to inform them in Gods Worship, to bring them to the knowledge, and acknowledge<g ref="char:EOLhyphen"/>ment of sin, to humble them for their sinne, to drive them out of themselves unto Christ, to make them vigilant over their hearts, and earnest to increase in grace. <hi>Ia.</hi> 2.8. <hi>Rom.</hi> 7.7, 8, 9. <hi>Rom.</hi> 3.20. 1 <hi>Io.</hi> 2.3. 2 <hi>Epist. Ioh. vers.</hi> 4, 5, 6.</p>
+               <p>Quest. <hi>Can you make it further evident, that the Law is a Rule of Life to Beleevers?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1 It was a Rule of life to <hi>Adam</hi> before the fall, to beleeving <hi>Iewes</hi> and <hi>Patriarks</hi> after the fall, before the comming of Christ, therefore also to be<g ref="char:EOLhyphen"/>leaving Christians, after Christs comming.</p>
+               <p n="2">2 It was a rule of morall obedience unto <hi>Christ,</hi> therefore also to Christs members.</p>
+               <p n="3">3 It is most consonant unto the <hi>nature</hi> of God, as being most holy, wise, just, immutable.</p>
+               <p n="4">4 It teacheth perfect <hi>conformity</hi> betweene God, and the reasonable creature.</p>
+               <p n="5">5 This, and no other Rule doth fully <hi>discover</hi> the sin, and crookednesse of mens hearts, and lives.</p>
+               <p n="6">6 This Law was solemnly delivered, and never repealed, for Christ came not to destroy, but to ful<g ref="char:EOLhyphen"/>fill the Law.</p>
+               <pb facs="tcp:107564:37"/>
+               <p n="7">7 Our actions cannot be of <hi>faith,</hi> if they be not done in obedience to some <hi>Word</hi> of God, other Word than this we have not.</p>
+               <p n="8">8 The Law is not significative, but signified by the Ceremonialls, and Judicialls.</p>
+               <p n="9">9 Christ and his Apostles taught it as a Rule of life.</p>
+               <p n="10">10 According to this Word shall the last sen<g ref="char:EOLhyphen"/>tence be pronounced, therefore by this must our life be ruled.</p>
+               <p>Quest. <hi>What manner obedience doe Beleevers yeeld unto the Law?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> A willing, and ready obedience, their hearts being inclined, and disposed thereunto by the work of Gods Spirit. <hi>Psal.</hi> 110.3. 1 <hi>Io.</hi> 5.3. <hi>Exod.</hi> 35.5.21, 22, 29.</p>
+               <p>Quest. <hi>How can the Gospel, together with the Law be a rule of our Sanctification, since it is the rule of our Iustification?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> It is the Rule of Justification, as it teach<g ref="char:EOLhyphen"/>eth, and offereth life and salvation <hi>by faith</hi> in Christ; but it is a Rule of Sanctification, as it teacheth us to Worship God in Christ, to be <hi>thankfull</hi> unto God for giving Christ, and as it worketh that faith which <hi>purifieth</hi> the heart, and inableth us to walke in well<g ref="char:EOLhyphen"/>pleasing before the Lord <hi>Ioh.</hi> 14.1. <hi>Joh.</hi> 5.23. 1 <hi>Thes.</hi> 5.18. <hi>Acts</hi> 15.9. <hi>Heb.</hi> 11.6.</p>
+               <p>Quest. <hi>How doth the Law and the Gospel differ?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1. The Law sheweth what we ought to be, and what we are bound to doe; but the Gospel sheweth us how we may become such as the Law requireth us to bee. <hi>Matt.</hi> 18.28. <hi>Luk.</hi> 10.28. <hi>Mar.</hi> 5.36.</p>
+               <pb facs="tcp:107564:38"/>
+               <p n="2">2 The Law was ingrafted in the minde of man at the Creation, and is yet knowne in part by cor<g ref="char:EOLhyphen"/>rupted <hi>nature,</hi> but the Gospel is not at all known by nature, but by <hi>revelation</hi> from God. <hi>Rom.</hi> 1.18. <hi>Ro.</hi> 2.15. <hi>Matth.</hi> 11.27. <hi>Ioh.</hi> 1.18.</p>
+               <p n="3">3 The Law promiseth life and salvation upon con<g ref="char:EOLhyphen"/>dition of our <hi>owne</hi> proper and perfect obedience: but the Gospel promiseth life upon condition of the Righteousnesse of <hi>Christ,</hi> applyed by Faith. <hi>Matt.</hi> 19.17. <hi>Mar.</hi> 16.16.</p>
+               <p n="4">4 The Law must be preached to the <hi>obstinate.</hi> 1 <hi>Tim.</hi> 1.9, 10. the Gospel to the <hi>penitent,</hi> and bro<g ref="char:EOLhyphen"/>ken hearted. <hi>Mat.</hi> 11.28.</p>
+               <p n="5">5 The Law breedeth <hi>terrour,</hi> the Gospel <hi>faith</hi> and repentance. 2. <hi>Cor.</hi> 3.7. <hi>Tit.</hi> 2.11.</p>
+               <p n="6">6 The Law threatneth punishment to all that doe not <hi>perfectly obey</hi> the whole Law, the Gospel threatneth destruction to all that doe <hi>not repent,</hi> and beleeve in Christ. <hi>Luk.</hi> 13.3.5.</p>
+               <p>Quest. <hi>Wherein doe the Law and the Gospel agree?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1 In their <hi>Author,</hi> one and the same God is Author of both. 2 <hi>Pet.</hi> 1.20.21. <hi>Gen.</hi> 3.15.</p>
+               <p n="2">2 In their <hi>end</hi> and scope; both the Law and the Gospel require spirituall, and perfect Righteousnesse: the one to be performed <hi>by</hi> us, the other to be per<g ref="char:EOLhyphen"/>formed of Christ <hi>for</hi> us, and imputed <hi>to</hi> us. <hi>Ro.</hi> 8.3, 4.</p>
+               <p>Quest. <hi>Doth not the Gospel abolish the Law, and make it of no use?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> No: but doth rather establish the Law: for,</p>
+               <p n="1">1 The Gospel Preacheth and proposeth <hi>Christ,</hi> who is the <hi>end</hi> of the Law for righteousnesse. <hi>Rom.</hi> 10.4.</p>
+               <pb facs="tcp:107564:38"/>
+               <p n="2">2 The Gospel teacheth us to beleeve in Christ <hi>cru<g ref="char:EOLhyphen"/>cified</hi> for our sinnes, and so all the threatnings of the morall, and shadows of the ceremoniall Law are <hi>confirmed,</hi> 1 <hi>Cor.</hi> 1.23. 1 <hi>Cor.</hi> 2.2.</p>
+               <p n="3">3 The Gospel teacheth us that we are <hi>sinners</hi> in our selves, and unjust in the sight of God, and so ap<g ref="char:EOLhyphen"/>proveth the sentence of the Law. <hi>Rom.</hi> 5.6.8, 9, 10, 11.</p>
+               <p n="4">4 The Gospel teacheth us, that we are not <hi>justi<g ref="char:EOLhyphen"/>fied</hi> before God, but by that <hi>perfect righteousnesse</hi> which the Law requireth, even the righteousnesse of Christ imputed. <hi>Phil.</hi> 3.9.</p>
+               <p n="5">5 The Gospel perswadeth, moveth, and guideth men in the whole course of their conversation, as much as in them is, to yeeld that <hi>obedience</hi> unto God which the Law requireth. 1 <hi>Tim.</hi> 1.5. 1 <hi>Ioh.</hi> 2.7. 1 <hi>Ioh.</hi> 3.22.</p>
+               <p>Quest. <hi>Js the Gospel under the new, the same with that under the Old Testament?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> It is the same in regard of the Substance. <hi>Gene.</hi> 3.15. <hi>Revel.</hi> 13.8.</p>
+               <p>Quest. <hi>How doth the Gospel under the New, differ from the Gospel under the Old Testament?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1 In regard of <hi>time;</hi> under the Old Testa<g ref="char:EOLhyphen"/>ment, the Gospel taught us to beleeve in Christ to come; under the New, it teacheth us to beleeve in Christ already come. <hi>Hebr.</hi> 10.1. 1 <hi>Joh.</hi> 5.20. <hi>Joh.</hi> 1.14.</p>
+               <p n="2">2 In regard of <hi>Cleernesse:</hi> the doctrine of salvati<g ref="char:EOLhyphen"/>on by Christ, is more distinct, and expresse under the New, than under the Old Testament, now no longer taught by obscure shadowes, but by apparant argu<g ref="char:EOLhyphen"/>ments. 2 <hi>Cor.</hi> 3.18. <hi>Matt.</hi> 11.11.</p>
+               <pb facs="tcp:107564:39"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:107564:39"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:107564:40"/>
+               <p n="3">3 In regard of Christian <hi>liberty;</hi> the yoake of the ceremoniall law, as it was a <hi>hand-writing</hi> against sinners, a <hi>prohibition</hi> of things in their owne nature indifferent, a veile to the Truth, a <hi>burden</hi> and servi<g ref="char:EOLhyphen"/>tude to the observers of it, is now removed under the New Testament. <hi>Col.</hi> 2.14.17. <hi>Gal.</hi> 5.1.</p>
+               <p n="4">4 In regard of the large <hi>effusion</hi> of the Spirit, the application of the Spirit is more effectuall; and the gifts of the Spirit are more perfect under the New, than they were ordinarily under the old Testament. 2 <hi>Cor.</hi> 3.6.18. <hi>Ioh.</hi> 17.39</p>
+               <p n="5">5 In regard of the <hi>Extent</hi> of it, under the Old Testament it was confined to one people, onely now it is extended to all nations. <hi>Matth.</hi> 28.19, 20.</p>
+               <p n="6">6 In regard of <hi>duration,</hi> the Administration of life under the New Testament, is perfect, and therefore shall continue such till the Consummation of the Church. 2 <hi>Cor.</hi> 3.11. <hi>Ephes.</hi> 4.13.</p>
+               <p>Quest. <hi>Having shewd me how the Gospel, with the Law, is a Rule of Sanctification: tell me now, what Law it is that together with the Gospel, is a Rule of our Sanctification?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> Neither the Ceremoniall, nor Judiciall, but the Morall Law. <hi>Deut.</hi> 4.13. <hi>Deut.</hi> 10.4. <hi>Prov.</hi> 3.1. <hi>Job</hi> 22.22.</p>
+               <p>Quest. <hi>How doth the Morall Law direct us in the duties of Sanctification.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> By teaching us <hi>piety</hi> towards God, and <hi>humanity</hi> towards man? <hi>Mat.</hi> 22.37.39.</p>
+               <p>Quest. <hi>How doth the Morall Law teach us piety to<g ref="char:EOLhyphen"/>wards God.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1 By informing us in the naturall worship of God; set downe in the first precept, teaching us,
+<pb facs="tcp:107564:40"/>That <hi>God is to be beleeved, hoped in, loved, invocated, heard, and obeyed in all things.</hi>
+               </p>
+               <p n="2">2 By informing us in the <hi>appointed Worship</hi> of God, set downe in the second Precept, teaching us to manifest and shew forth Faith, Hope, and Love to God ward, by Worshipping him wholly, and onely according to his revealed Will, without addition or diminution.</p>
+               <p n="3">3 By informing us in the <hi>manner</hi> of his Worship set down in the third Precept, teaching us, to use eve<g ref="char:EOLhyphen"/>ry thing belonging to the Word of God, in such sort, as is most agreeable to the Divine Majestie.</p>
+               <p>By informing us in the dedication of a <hi>set and so<g ref="char:EOLhyphen"/>lemne time,</hi> one day in seven, to holy and religious ex<g ref="char:EOLhyphen"/>ercises, set downe in the fourth precept.</p>
+               <p>Quest. <hi>How doth the Morall Law teach us humanity to our neighbour?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1. By informing us in the mutuall dueties of <hi>Superiors,</hi> and <hi>Inferiours,</hi> in the fift precept.</p>
+               <p n="2">2 By shewing us that we ought not to hurt our neighbour in <hi>deed,</hi> in <hi>word,</hi> or <hi>thought.</hi>
+               </p>
+               <p>First not in <hi>deed,</hi> in respect of his <hi>person,</hi> in the sixth Precept, In respect of <hi>his and our owne</hi> Person, in the seventh precept, In respect of his <hi>goods,</hi> in the eight precept.</p>
+               <p>Secondly, Not in word, in respect of his <hi>good name,</hi> in the Ninth Precept.</p>
+               <p>Thirdly, Not in <hi>thought,</hi> neither conceiving, nor willing any thing repugnant to our neighbours good, in the Tenth Precept.</p>
+               <p>Quest. <hi>What meanes must we use to get this Sancti<g ref="char:EOLhyphen"/>fication wrought and increased?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1 Conscionable, and frequent <hi>attendance</hi>
+                  <pb facs="tcp:107564:41"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:107564:41"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:107564:42"/>upon Gods Word preached. <hi>Acts</hi> 8.7. 2 <hi>Cor.</hi> 10.5. <hi>Ioh.</hi> 17.17.</p>
+               <p n="2">2 Reverent, circumspect, and carefull <hi>reading</hi> of Gods Word, and other holy Bookes. <hi>Deuter.</hi> 17.19. <hi>Acts</hi> 8.28.</p>
+               <p n="3">3 Holy and serious <hi>meditation</hi> upon the Nature, At<g ref="char:EOLhyphen"/>tributes, Word, and Works of God. <hi>Ios.</hi> 1.8. <hi>Psalm.</hi> 1.1, 2.</p>
+               <p n="4">4 Carefull <hi>preparation</hi> unto, and frequent use of the Sacraments. 1 <hi>cor.</hi> 11.28.</p>
+               <p n="5">5 Holy Communion, and <hi>conference</hi> with Gods people. <hi>Hebr.</hi> 10.24, 25.</p>
+               <p n="6">6 Understanding holy, humble, hearty, fervent, faithfull and constant <hi>prayer.</hi> 1 <hi>cor.</hi> 14.15. <hi>Eccles.</hi> 5.1. <hi>Jam.</hi> 5.16. <hi>Psalm.</hi> 145.18, 19. <hi>Iam.</hi> 1.6. 1 <hi>Thes.</hi> 5.17.</p>
+               <p>Quest. <hi>What directions must we observe for the or<g ref="char:EOLhyphen"/>dering of our selves in a sanctified manner?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> The directions which in this behalfe must be used, respect. 1 God. 2 Man.</p>
+               <p>Quest. <hi>What are the directions which have respect unto God?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1 You must <hi>know</hi> and love God for him<g ref="char:EOLhyphen"/>selfe, and above all things. <hi>Iere.</hi> 9.23. <hi>Mark</hi> 12.33. <hi>Psal.</hi> 73.25.</p>
+               <p n="2">2 You must <hi>esteeme</hi> and delight in Christ Jesus a<g ref="char:EOLhyphen"/>bove all creatures. <hi>Phil.</hi> 3.8. <hi>Cant.</hi> 5.10.</p>
+               <p n="3">3 You must <hi>delight,</hi> and walke in all the wayes of God. <hi>Eccles.</hi> 12.13. <hi>Deut.</hi> 4.5.</p>
+               <p n="4">4 You must <hi>obey</hi> and please God whosoever be of<g ref="char:EOLhyphen"/>fended. <hi>Acts.</hi> 4.19. <hi>Prov.</hi> 16.7.</p>
+               <p n="5">5 You must <hi>seek his honor</hi> more than your spirituall or bodily welfare. <hi>Rom.</hi> 9.2, 3. <hi>Luk.</hi> 14.26.</p>
+               <pb facs="tcp:107564:42"/>
+               <p n="6">6 You must desire and <hi>seek spirituall things,</hi> the pardon of sin, the sense of Gods love, the grace of the Spirit, before all things in the world. <hi>Psalm.</hi> 4.6. <hi>Psal.</hi> 51.8. <hi>Mat.</hi> 6.33.</p>
+               <p>Quest. <hi>What are the directions which respect man?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> They respect either man <hi>himself,</hi> or <hi>others.</hi>
+               </p>
+               <p>Quest. <hi>What are they which respect a man him<g ref="char:EOLhyphen"/>selfe?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> They respect either the <hi>inward,</hi> or the <hi>out<g ref="char:EOLhyphen"/>ward</hi> man.</p>
+               <p>Quest. <hi>What are they which respect the inward man?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> They respect. 1 The minde. 2 The thoughts. 3 The will. 4 The affections. 5 The Conscience.</p>
+               <p>Quest. <hi>What are the directions which respect the minde?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1 It must be furnished with necessary, pro<g ref="char:EOLhyphen"/>fitable, holy, and humble <hi>knowledge.</hi> 1 <hi>cor.</hi> 2.2. <hi>Phil.</hi> 1.9. <hi>Jam.</hi> 3 17.</p>
+               <p n="2">2 It must be adorned with <hi>heavenlinesse</hi> and holi<g ref="char:EOLhyphen"/>nesse. <hi>Phil</hi> 3.19, 20. <hi>Ephes.</hi> 4.23.</p>
+               <p n="3">3 With <hi>humility,</hi> sobriety, shamefastnesse, and uni<g ref="char:EOLhyphen"/>ty. 1 <hi>Pet.</hi> 3.4, 5. <hi>col.</hi> 3.12.</p>
+               <p>Quest. <hi>What directions respect the thoughts?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1. You must <hi>watch</hi> over them with all dili<g ref="char:EOLhyphen"/>gence. <hi>Prov.</hi> 4.23.</p>
+               <p n="2">2 You must <hi>bestow</hi> you first thoughts about God, and the things of God. <hi>Psal.</hi> 5.3.</p>
+               <p n="3">3 Evill thoughts must be <hi>called</hi> into question, and <hi>resisted</hi> in the first originall. <hi>Iere.</hi> 4.14.</p>
+               <p n="4">4 Conscience must be <hi>made</hi> of the least evill thought, and the heart <hi>humbled</hi> for it. <hi>Prov.</hi> 24.9.</p>
+               <p n="5">5 No more thoughts must be <hi>bestowed</hi> about the
+<pb facs="tcp:107564:43"/>world than are necessary. <hi>Matth.</hi> 6.31.</p>
+               <p n="6">6 Your thoughts of God must be <hi>holy</hi> and reverent, of your selfe <hi>humble,</hi> and of sinne with detestation. <hi>Psalm.</hi> 5.7. <hi>Psalm.</hi> 77.3. <hi>Phil.</hi> 2.3. <hi>Psalm.</hi> 119.113.</p>
+               <p>Quest. <hi>What are the directions which respect the Will?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1 The Will must not be led by <hi>affection,</hi> but by a <hi>judgement</hi> rightly informed out of Gods Word. <hi>Prov.</hi> 4.27. <hi>Psal.</hi> 119 33, 34.</p>
+               <p n="2">2 The Will must <hi>chose</hi> the best things. 1 <hi>cor.</hi> 12.31.</p>
+               <p n="3">3 Gods Will <hi>revealing</hi> what we shall know, <hi>deter<g ref="char:EOLhyphen"/>mining</hi> what we shall be, <hi>prescribing</hi> what wee shall doe, and <hi>disposing</hi> what shall befall us, must be the rule wherein our wills rest, and whereunto they must sub<g ref="char:EOLhyphen"/>mit, as to a rule most holy, wise, just, and good. <hi>Mat.</hi> 6.10. <hi>Matth.</hi> 26.39. 1 <hi>Sam.</hi> 3.18.</p>
+               <p>Quest. <hi>What are the Directions which respect the con<g ref="char:EOLhyphen"/>science?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1 We must be carefull to <hi>keepe</hi> our selves from an impure, blinde, doubtfull, superstitious, sear<g ref="char:EOLhyphen"/>ed, and accusing conscience. <hi>Tit.</hi> 1.15. <hi>Ephes.</hi> 4.19. <hi>Rom.</hi> 14.5.23. <hi>col.</hi> 2.21. 1 <hi>Tim.</hi> 4.2. <hi>Tit</hi> 3.11.</p>
+               <p n="2">2 Wee must <hi>get,</hi> and carefully keep a good, pure and peaceable Conscience in all things. <hi>Acts</hi> 23.1. <hi>Acts</hi> 24.16. <hi>Heb.</hi> 9.14. 2 <hi>Tim.</hi> 1.3.</p>
+               <p>Quest. <hi>What are the directions which respect the af<g ref="char:EOLhyphen"/>fections?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> 1 Our affections must be fastned <hi>on God</hi> with most joy, and delight. <hi>Psal.</hi> 37.4.</p>
+               <p n="2">2 We must affect all things <hi>in and for God,</hi> nothing like, above, or against God. 1 <hi>cor.</hi> 7.29, 30, 31.39. <hi>Mat.</hi> 10.37.</p>
+               <pb facs="tcp:107564:43"/>
+               <p n="3">3 We must labour to taste and be affected with the <hi>sweetnesse and goodnesse of God,</hi> in all his creatures, and actions. <hi>Psal.</hi> 34.8.</p>
+               <p n="4">4 Our affections must be more frequently, strongly, and delightfully fastned on <hi>things heavenly</hi> than earth<g ref="char:EOLhyphen"/>ly. <hi>col.</hi> 3.1, 2.</p>
+               <p n="5">5 We must have a <hi>fellow-feeling</hi> of the miseries of our afflicted brethren, <hi>Heb.</hi> 13.2.</p>
+               <p n="6">6 We must be more affected with the <hi>vilenesse</hi> of sinne, than with the <hi>punishment</hi> belonging to the same. <hi>Rom.</hi> 7.24.</p>
+               <p>Quest. <hi>What rules doe respect the outward man?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> They respect, 1 Our calling, 2 Our estates, 3 Our speeches. 4 Our actions.</p>
+               <p>Quest. <hi>What Rules respect our callings?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1 Every man must have a <hi>particular</hi> calling. <hi>Gen.</hi> 2.15. <hi>Gen.</hi> 3.19.</p>
+               <p n="2">2 Every man must make choice of such a calling, as is <hi>lawfull,</hi> honest, most convenient, and best for the glo<g ref="char:EOLhyphen"/>ry of God, his owne and others good. <hi>Ephes.</hi> 4.28.</p>
+               <p n="3">3 Every man must labour to see that God doth <hi>set</hi> him in that calling, which he doth undertake. 1 <hi>cor.</hi> 7.17.</p>
+               <p n="4">4 He must <hi>exercise</hi> himselfe in his calling religi<g ref="char:EOLhyphen"/>ously, faithfully, conscionably, diligently, and constant<g ref="char:EOLhyphen"/>ly. <hi>col.</hi> 3.22.</p>
+               <p n="5">5 The works of every mans calling must be <hi>profi<g ref="char:EOLhyphen"/>table,</hi> and necessary, and properly appertaining to his owne, and not to another mans calling. 1 <hi>Thes.</hi> 4.11.</p>
+               <p n="6">6 The works of our particular must <hi>receive directi<g ref="char:EOLhyphen"/>on</hi> from our generall calling, and also give place there<g ref="char:EOLhyphen"/>unto. <hi>col.</hi> 3.17.</p>
+               <pb facs="tcp:107564:44"/>
+               <p>Quest. <hi>What Rules respect our estate?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1 We must be <hi>contented</hi> in every estate, and account that estate best wherein God doth set us. <hi>Phil.</hi> 4.11. <hi>Iob</hi> 2.10.</p>
+               <p n="2">2 <hi>Prepare</hi> for afflictions before they come, and re<g ref="char:EOLhyphen"/>member that Gods favour may be enjoyed in trouble, as well as in peace. <hi>Ioh.</hi> 6.1, 2. <hi>Isa.</hi> 49.14, 15. <hi>Heb.</hi> 12.7.</p>
+               <p n="3">3 Seek not so much to be delivered out of affliction, as for <hi>patience</hi> to beare it, <hi>grace</hi> to make a good use of it, and to draw the neerer to God by it. <hi>Isai.</hi> 28.16. <hi>Psal.</hi> 40.1. <hi>Mica.</hi> 7.9.</p>
+               <p n="4">4 Make not affliction the more burthensome by <hi>impatience,</hi> but let the greatnesse of the affliction breed the more diligent <hi>search,</hi> and thorough hatred of the sinne which did procure it. <hi>Exod.</hi> 14.11. <hi>Lamen.</hi> 3.39, 40.</p>
+               <p n="5">5 In prosperity be <hi>not lifted</hi> up, but thinke of a change, be <hi>jealous</hi> of thy selfe, desire God to keep thee, be <hi>mindfull</hi> of the affliction of thy Brethren, and rejoyce not in thine owne peace, while the Church of God is in trouble. <hi>Deut.</hi> 8.14. <hi>Rom.</hi> 12.15. <hi>Amos</hi> 6.1, 2, 3.6.</p>
+               <p>Quest. <hi>What Rules respect our speeches?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1 They must be <hi>gracious,</hi> sincere, wise, of the best things, moderate, gentle, seasonable, profi<g ref="char:EOLhyphen"/>table, and tending to edification. 1 <hi>Pet.</hi> 4.11. <hi>Ephes.</hi> 4.29. <hi>Psal.</hi> 15.2. <hi>Col.</hi> 4.6. <hi>Psal.</hi> 37.30, 31. <hi>Deut.</hi> 32.2. <hi>Ephes.</hi> 4, 31. <hi>Prov.</hi> 15.25. <hi>psal.</hi> 37.29.</p>
+               <p n="2">2 Our speech of God, his Word and Works, must be <hi>with humility,</hi> reverence, feare, and gravity. <hi>Lev.</hi> 19.12.</p>
+               <p n="3">3 Our speech of others must be <hi>good,</hi> and charitable,
+<pb facs="tcp:107564:44"/>never speaking the evill we know by them, but with griefe, and that upon a necessary occasion, and lawfull calling. <hi>Tit.</hi> 3.2.</p>
+               <p n="4">4 Our speech to our Superiours must be <hi>reverent,</hi> to our equalls, and inferiours, <hi>plaine,</hi> milde, loving, and faithfull. <hi>Lev.</hi> 19.17.</p>
+               <p n="5">5 Our speech of our selves must <hi>be modest,</hi> and hum<g ref="char:EOLhyphen"/>ble, without any shew of ostentation. <hi>Prov.</hi> 27.2.</p>
+               <p n="6">6 Our speech of things heavenly, must be with more <hi>frequency,</hi> earnestnesse, circumspection, comfort and delight, than of things earthly. <hi>Deut.</hi> 6.6.</p>
+               <p>Quest. <hi>What Rules respect our Actions?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1 The <hi>matter,</hi> circumstances, and ends of our actions must be good. <hi>Phil.</hi> 4.8.</p>
+               <p n="2">2 We must doe all things in a humble, sincere, and loving <hi>manner,</hi> according to our abilitie. 1 <hi>cor.</hi> 16.14. 2 <hi>Cor.</hi> 9 5, 6, 7. 2 <hi>Cor.</hi> 1.13.</p>
+               <p n="3">3 We must doe good to the soule and body, but to the <hi>soules</hi> of men chiefly. <hi>Matth.</hi> 6.33. <hi>Lev.</hi> 19.17. <hi>Iam.</hi> 5.19, 20. <hi>Luk.</hi> 22.32.</p>
+               <p>Quest. <hi>What Directions respect our eating and drink<g ref="char:EOLhyphen"/>ing?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1 Our meate, and drinke must be <hi>sanctified</hi> by the Word of God, and Prayer. 1 <hi>Tim.</hi> 4.4, 5.</p>
+               <p n="2">2 We must feed upon that which is <hi>our owne,</hi> and that according to our necessitie, and with moderate delight. <hi>Ephes.</hi> 4.28. <hi>Pro.</hi> 5.15.</p>
+               <p n="3">3 We must be <hi>affected with Gods goodnesse</hi> in the creatures, our mouthes must speake of his bounty, and loving kindnesse, and not be unmindfull of the wants of others. <hi>Deut.</hi> 12.7. <hi>Neh.</hi> 8.10.</p>
+               <p>Quest. <hi>What Rules respect our Recreations?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1 The <hi>matter</hi> of our Recreation must be
+<pb facs="tcp:107564:45"/>neither of things holy, nor of things profane, but of things indifferent, free from scandall, and ill report. <hi>Ephes.</hi> 5.35.</p>
+               <p n="2">2 The <hi>persons</hi> using them must be sanctified, weary with lawfull labour, and must pray for a blessing upon their Recreations. 1 <hi>Tim.</hi> 4.4, 5. <hi>Tit.</hi> 1.15.</p>
+               <p n="3">3 They must be used <hi>moderately,</hi> watchfully, wise<g ref="char:EOLhyphen"/>ly, Christianly, and seasonably. <hi>Phil.</hi> 4.5. <hi>Eccles.</hi> 3.1, 2, 3, 4.</p>
+               <p n="4">4 You must use them to <hi>Gods glory,</hi> the refreshing of your weary body, preservation of health, the making of you more fit for your calling, and the dueties of Sanctification: 1 <hi>Cor.</hi> 10.30, 31.</p>
+               <p>Quest. <hi>What directions respect our Apparell?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1 The <hi>matter</hi> of our apparell, must not be o<g ref="char:EOLhyphen"/>vercostly, but according to our ability, calling, condi<g ref="char:EOLhyphen"/>tion of life, and example of the graver sort of people. 1 <hi>Pet.</hi> 4.5. <hi>Gen.</hi> 3.21.</p>
+               <p n="2">2 The <hi>fashion</hi> of our apparell must not be strange, garish, wanton, but according to the custome of the Countrey, and more sober sort of people, amongst whom we live. <hi>Zeph.</hi> 1.8. <hi>Tit.</hi> 2.3. <hi>Rom.</hi> 12.2.</p>
+               <p n="3">3 We must weare <hi>such apparell</hi> as may serve for health, decency, and distinction. <hi>Gen.</hi> 3.21. <hi>Hag.</hi> 1.6. <hi>Deut.</hi> 22.5.</p>
+               <p n="4">4 The <hi>putting on</hi> of our apparell must minde us of the losse of our Innocency, of the putting on of Christ, and of the girding up of the loines of our minde: and the <hi>putting off</hi> of our apparell, must minde us of putting off our sinnes by regeneration, and of putting off our flesh by a bodily dissolution. <hi>Rom.</hi> 13.14. <hi>Col.</hi> 3.12. 1 <hi>Pet.</hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3. <hi>Ephes.</hi> 4.23, 24. 2 <hi>Pet.</hi> 1.14.</p>
+               <p>Quest. <hi>What Rules must we observe in company?</hi>
+               </p>
+               <pb facs="tcp:107564:45"/>
+               <p>
+                  <hi>Ans.</hi> 1 We must endeavour so much as may be to have <hi>peace</hi> with all men, but <hi>familiarity</hi> onely with good men. <hi>Ro.</hi> 12.18. <hi>Heb.</hi> 12.14. <hi>Psal.</hi> 101.4.</p>
+               <p n="2">2 We must labour to <hi>doe good,</hi> or receive good in every company. <hi>Heb.</hi> 10.24.</p>
+               <p n="3">3 Our conversation must be such among all men, as doth <hi>beseeme</hi> the Gospel. <hi>Phil.</hi> 1.27.</p>
+               <p n="4">4 We must shew forth both <hi>piety and humanity</hi> in our company. 1 <hi>Pet.</hi> 2.17. 1 <hi>Pet.</hi> 3.8.</p>
+               <p n="5">5 All <hi>needlesse</hi> Society with wicked men must be a<g ref="char:EOLhyphen"/>voided. <hi>Ephes.</hi> 5.7, 8.</p>
+               <p n="6">6 When we have necessary occasion of conversing with carnall people, we must walke <hi>blamelesly,</hi> and wisely towards them. <hi>Mat.</hi> 10.16.</p>
+               <p n="7">7 We must love all good men with a <hi>christian,</hi> and singular affection, wee must maintaine a <hi>holy fellowship</hi> with them, wee must walke in all <hi>faithfulnesse</hi> to<g ref="char:EOLhyphen"/>wards them, and <hi>beare</hi> their burthen in the time of affliction, <hi>subjecting</hi> our selves to their godly coun<g ref="char:EOLhyphen"/>sell, <hi>following</hi> their gracious example, <hi>reverencing</hi> the strong in grace, and giving no offence to the weake. <hi>Psal.</hi> 16.3. <hi>Gal.</hi> 6.1. <hi>Rom.</hi> 14.1. <hi>Heb.</hi> 10.24, 25. <hi>Psa.</hi> 141.5. 1 <hi>Cor.</hi> 11.1.</p>
+               <p n="8">8 We must love our choise and godly friend <hi>dearly,</hi> freely, sincerely, and constantly, give him wholsome and hearty counsell, communicate our secrets to him, and extend our love to his posteritie. 2 <hi>Sam.</hi> 1.26. 2 <hi>Sam.</hi> 9.1.</p>
+               <p>Quest. <hi>What motives are there inducing us thus to or<g ref="char:EOLhyphen"/>der our conversation?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> 1 The strict charge which God hath given us. 2 <hi>Pet.</hi> 1.10.</p>
+               <p n="2">2 The <hi>end</hi> of our Redemption. <hi>Tit.</hi> 2.14.</p>
+               <pb facs="tcp:107564:46"/>
+               <p n="3">3 The <hi>honor</hi> of our calling. 2. <hi>Thes.</hi> 1.11.</p>
+               <p n="4">4 The <hi>beautifying</hi> of the Gospel. <hi>Phil.</hi> 1.27.</p>
+               <p n="5">5 The giving of good <hi>example</hi> to other people. <hi>Matth.</hi> 5.16.</p>
+               <p n="6">6 The singular <hi>priviledges</hi> attending true Sanctifi<g ref="char:EOLhyphen"/>cation. 1 <hi>Tim.</hi> 4.8.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII.</head>
+               <head type="sub">Question.</head>
+               <p>
+                  <hi>VVHat is the sixth step by which God doth pro<g ref="char:EOLhyphen"/>ceed in the work of mans Salvation?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Glorification. <hi>Rom.</hi> 8.30. 1 <hi>Thes.</hi> 2.12.</p>
+               <p>Quest. <hi>How may we be assured that there is a future estate of glory and happinesse reserved for the righteous?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1 By the cleere and plentifull <hi>testimony</hi> of the Scriptures. <hi>Iob.</hi> 19.25, 26. <hi>Dan.</hi> 12.2. <hi>Isai.</hi> 25, 6, 7, 8. <hi>Isa.</hi> 57.2. <hi>Io.</hi> 5.29. <hi>Matt.</hi> 13.43. <hi>Mat.</hi> 19.29, <hi>&amp;c.</hi>
+               </p>
+               <p n="2">2 By the <hi>perfection</hi> of Gods Goodnesse, he is the chiefest good, and will most perfectly communicate himselfe unto his beloved. <hi>Psrl.</hi> 36.9.</p>
+               <p n="3">3 By the <hi>equity</hi> of his Justice, rendring to all men according to their doings. 2 <hi>Thes.</hi> 1.7. 2 <hi>Tim.</hi> 4.8.</p>
+               <p n="4">4 By the <hi>Truth</hi> of Gods promise. <hi>Tit.</hi> 1.2. 1 <hi>Ioh.</hi> 2.25.</p>
+               <p n="5">5 By the <hi>power</hi> of God to accomplish his purpose. <hi>Ioh.</hi> 10.28, 29.</p>
+               <p n="6">6 By the <hi>dignity</hi> of Christs merit. <hi>Heb.</hi> 7.25.</p>
+               <p n="7">7 By the <hi>efficacie</hi> of Christs Intercession. <hi>Rom.</hi> 8.34.</p>
+               <p n="8">8 By the <hi>Termes of Relation</hi> between Christ, and his
+<pb facs="tcp:107564:46"/>people; he is an eternall King, Husband, and Saviour, and therefore must-needs have Subjects, a Spouse, and a saved people, which shall live in glory for ever.</p>
+               <p>Quest. <hi>What is glorification?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> It is the blessed estate of Gods people after this life, wherein they shall have freedome from all sin, and misery, and the full perfection of grace and glory, both in soule and body. <hi>Ephes.</hi> 5.27. <hi>Isa.</hi> 60.21. 1 <hi>Cor.</hi> 13.10, 11. 12. <hi>Rev.</hi> 21.4, 5.</p>
+               <p>Quest. <hi>Who is the Author or cause efficient of this Glorification, and blessed estate of Gods people?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> God of his free grace, and favour in Christ. <hi>Rom.</hi> 6.23. and that,</p>
+               <p n="1">1 In regard of <hi>Preparation. Mat.</hi> 25.34. <hi>Isa.</hi> 64, 4.</p>
+               <p n="2">2 In regard of <hi>Stipulation,</hi> God hath promised life eternall. 1 <hi>Io.</hi> 2.25.</p>
+               <p n="3">3 In regard of <hi>Acquisition.</hi> God gave Christ to purchase this glory for us. <hi>Ioh.</hi> 3.16.</p>
+               <p n="4">4 In regard of <hi>Application.</hi> God 1 by the Ministery of his Word and Spirit, <hi>revealing</hi> this life eternall to them, <hi>working</hi> faith in their hearts to beleeve it, and <hi>sealing</hi> up the same unto their soules. <hi>Rom.</hi> 8.16, 17. <hi>Ephes.</hi> 1.14. <hi>Ephes.</hi> 4.30. Secondly, at the day of their death by the Ministery of his Angels <hi>carrying</hi> them in<g ref="char:EOLhyphen"/>to Abrahams Bosome. <hi>Luk.</hi> 16.22. Thirdly, in the last day by Jesus Christ, <hi>raising</hi> their bodies againe to a glo<g ref="char:EOLhyphen"/>rious estate. <hi>Joh.</hi> 5.29.</p>
+               <p n="5">5 In regard of <hi>Conservation,</hi> and continuance, God will for ever confirme them in that glorious condition. <hi>Rev.</hi> 3.12. <hi>Luk</hi> 20.36.</p>
+               <p>Quest. <hi>What doth the name of that blessednesse or glo<g ref="char:EOLhyphen"/>rification which the people of God shall have in the next life comprise under it?</hi>
+               </p>
+               <pb facs="tcp:107564:47"/>
+               <p>
+                  <hi>Answ.</hi> 1 A complete <hi>presence</hi> of all good.</p>
+               <p n="2">2 An utter <hi>absence</hi> of all evill.</p>
+               <p n="3">3 An <hi>unchangeablenesse</hi> of felicitie.</p>
+               <p n="4">4 A perfect <hi>fruition</hi> of God himself, who is the bles<g ref="char:EOLhyphen"/>sednesse of his servants.</p>
+               <p n="5">5 A most <hi>cleere knowledge</hi> of their glory in regard of the understanding, <hi>fervent love</hi> to it in regard of the will, a comfortable, and abundant <hi>acquiescence</hi> in it in regard of the affection of the heart, from whence ari<g ref="char:EOLhyphen"/>seth joy unspeakable, and glorious in the Souls of Gods servants.</p>
+               <p>Quest. <hi>In what order, or by what degrees doth God bring men to this glorious estate after death?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1 The <hi>Soule</hi> of every true Beleever is imme<g ref="char:EOLhyphen"/>diately after death, by the power of God, and Ministe<g ref="char:EOLhyphen"/>ry of the holy Angels, conveyed into the estate of hap<g ref="char:EOLhyphen"/>pinesse. <hi>Lu.</hi> 16.26. <hi>Lu.</hi> 23.43.</p>
+               <p n="2">2 The <hi>Bodies</hi> returne to the dust, as to a place of rest from all evills. <hi>Isa.</hi> 57.2. <hi>Rev.</hi> 14.13.</p>
+               <p n="3">3 The bodies of all men shall be <hi>raised</hi> againe at the last day, and their soules shall enter into them again, and then body and soule of all true Beleevers shall be joint<g ref="char:EOLhyphen"/>ly, fully, and everlastingly glorified, and the soule and body of the wicked, joyntly and endlesly tormented. <hi>Iob</hi> 19.25, 26. <hi>Isa.</hi> 26.19. 1 <hi>Cor</hi> 15.16. <hi>Rev.</hi> 20.12, 13. <hi>Io.</hi> 6 44.</p>
+               <p n="4">4 There shall be at the last day a generall, strict, and righteous <hi>Judgment,</hi> wherein Christ shall be the Judge; the secrets of mens natures, and works shall be opened, and all men shall be judged according to their works. 2 <hi>Pet.</hi> 3.10. <hi>Dan.</hi> 7.9, 10. <hi>Rom.</hi> 14.10.</p>
+               <p>Quest. <hi>Wherein doth the state of Gods people in glory differ from their estate in Sanctity here on earth?</hi>
+               </p>
+               <pb facs="tcp:107564:47"/>
+               <p>
+                  <hi>Answ.</hi> 1 In this life Gods people have <hi>need</hi> of the ex<g ref="char:EOLhyphen"/>ternall Ministery of the Word, and internal Ministra<g ref="char:EOLhyphen"/>tion of the Spirit, which in the next life they shall not need. 1 <hi>Cor.</hi> 13.8, 9, 10.</p>
+               <p n="2">2 In this life good and bad are <hi>mixed,</hi> in the next life Gods children shall have absolute freedome from all sinfull people. <hi>Matth.</hi> 13.30. <hi>Matth.</hi> 25.33.34.</p>
+               <p n="3">3 In this life Gods children are <hi>troubled</hi> with in<g ref="char:EOLhyphen"/>ward corruptions, many failings, and temptations, and persecutions, but in the next life they shall have a ple<g ref="char:EOLhyphen"/>nary discharge from all evills. 1 <hi>Ioh.</hi> 1.8. <hi>Eph.</hi> 5.26, 27.</p>
+               <p n="4">4 Here Gods people see, and know God <hi>obscurely,</hi> by means, there they shall see him face to face, know him fully, and have the immediate fruition of his pre<g ref="char:EOLhyphen"/>sence. 1 <hi>Cor.</hi> 13.12.</p>
+               <p>Quest. <hi>Shew me briefly wherein standeth the excel<g ref="char:EOLhyphen"/>lency of the glorious estate of Gods faithfull people?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> In a full freedome from all evill, and in a per<g ref="char:EOLhyphen"/>fect fruition of all good. <hi>Psal.</hi> 16.11. <hi>Rev.</hi> 21.4, 5.</p>
+               <p>Quest. <hi>What are the evills from which they are freed?</hi>
+               </p>
+               <p>
+                  <hi>Ans.</hi> From all bodily <hi>labours,</hi> diseases, and afflicti<g ref="char:EOLhyphen"/>ons, from all naturall <hi>infirmities,</hi> from all <hi>sin,</hi> and incli<g ref="char:EOLhyphen"/>nation to sin, from all bodily and spirituall <hi>adversaries,</hi> from all shame, and <hi>sorrow</hi> for their owne, or the sins of others, from the <hi>displeasure</hi> of God, and from the trouble of an evill Conscience. <hi>Rev.</hi> 14.13. <hi>Heb.</hi> 4.9, 10. 2 <hi>Thes.</hi> 1.7. <hi>Rev.</hi> 21.4. <hi>Eph.</hi> 5.26. <hi>Rev.</hi> 20.10. <hi>Rev.</hi> 22.3.</p>
+               <p>Quest. <hi>Wherein standeth that good whereof they shall have the full fruition?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1 Their <hi>knowledge</hi> of God, <hi>inclination</hi> to good, <hi>Love</hi> to God, and his people, shall be in every de<g ref="char:EOLhyphen"/>gree <hi>complete;</hi> the whole man shall be perfectly con<g ref="char:EOLhyphen"/>formable to the Will of God, and Gods Image, both in
+<pb facs="tcp:107564:48"/>soule and body shall be perfectly restored. 1 <hi>Cor.</hi> 13.8.10.11. <hi>Ro.</hi> 6.13.19. <hi>Rev.</hi> 3.4.5. 1 <hi>Joh.</hi> 3.2.</p>
+               <p n="2">2 They shall have the full and blessed <hi>vision</hi> of God for ever, and everlasting <hi>communion</hi> with Christ Jesus, the glorious Angels, and all Saints in the highest hea<g ref="char:EOLhyphen"/>vens. <hi>Rev.</hi> 22.3, 4, 5.</p>
+               <p>Quest. <hi>What Inducements are there to move us to la<g ref="char:EOLhyphen"/>bour for this glorious Estate?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> 1 The <hi>vanity</hi> and emptinesse of the <hi>Crea<g ref="char:EOLhyphen"/>ture;</hi> it cannot <hi>content</hi> us, make us happy, <hi>comfort us</hi> in heavinesse, <hi>deliver</hi> us out of dangers, nor <hi>perpetuate</hi> our earthly estate, and condition; no, not when wee have it in the greatest abundance. <hi>Eccl.</hi> 9.2.11. <hi>Eccl.</hi> 5.10, 11. <hi>Iob.</hi> 20.22.</p>
+               <p n="2">2 The sweet and comfortable <hi>fulnesse</hi> which for the present we shall finde in God, even when wee are in the lowest estate. <hi>Psal.</hi> 36.8. <hi>Gen.</hi> 17.1. <hi>Gene.</hi> 15.1, 2. <hi>Io.</hi> 1.16. <hi>Psal.</hi> 62.9, 10, 11, 12. <hi>Psal.</hi> 4.6.</p>
+               <p n="3">3 The <hi>great things</hi> which Christ hath done to make us partakers of that glorious estate. <hi>Tit.</hi> 2.12, 13, 14. <hi>Ephes.</hi> 4.11, 12, 13, 14.</p>
+               <p n="4">4 The insufferable and endlesse <hi>shame,</hi> sorrow, and torments we shall draw upon our selves, if we prepare not for that estate. <hi>Mat.</hi> 25.41. <hi>Isa.</hi> 30.33.</p>
+               <p n="5">5 The glorious <hi>condition,</hi> and everlasting <hi>continuance</hi> of this blessed estate in heaven. <hi>Rev.</hi> 21.2.23. 1 <hi>Pet.</hi> 1.4.</p>
+            </div>
+            <closer>Laus Deo in aeternûm.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:107564:48"/>
+         </div>
+      </body>
+   </text>
+</TEI>
